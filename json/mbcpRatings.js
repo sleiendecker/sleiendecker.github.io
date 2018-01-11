@@ -26,7 +26,7 @@ data = [
   {
     "NAME": "Almond Joy White Russian Stout",
     "BREWERY": "Aardwolf Brewing Company",
-    "RATING": "0",
+    "RATING": null,
     "URL": "https://untappd.com/b/aardwolf-brewing-company-almond-joy-white-russian-stout/2466020"
   },
   {
@@ -50,7 +50,7 @@ data = [
   {
     "NAME": "Maple Bacon Coffee Cider",
     "BREWERY": "Accomplice Brewery & Ciderworks",
-    "RATING": "0",
+    "RATING": null,
     "URL": "https://untappd.com/b/accomplice-brewery-and-ciderworks-maple-bacon-coffee-cider/2148981"
   },
   {
@@ -170,7 +170,7 @@ data = [
   {
     "NAME": "BA Cubano Coxness Monster Imperial Stout",
     "BREWERY": "Copperpoint Brewing Co.",
-    "RATING": "0",
+    "RATING": null,
     "URL": "https://untappd.com/b/copperpoint-brewing-co-ba-cubano-coxness-monster/2466247"
   },
   {
@@ -482,7 +482,7 @@ data = [
   {
     "NAME": "She's Actin' Single, I'm Drinkin' Tripel",
     "BREWERY": "Sailfish Brewing Company",
-    "RATING": "0",
+    "RATING": null,
     "URL": "https://untappd.com/b/sailfish-brewing-company-shes-actin-single-im-drinkin-tripel/2412914"
   },
   {
