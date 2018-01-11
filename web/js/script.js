@@ -1,6 +1,8 @@
 $(function () {
 
   const table = $('table').DataTable({
+    "lengthMenu": [[-1], ["All"]],
+    "bLengthChange": false,
     "columns": [
       { 
         "data": "NAME",
