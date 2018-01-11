@@ -4,3 +4,4 @@
 /controllers/
 /config/
 package*.json
+.DS_Store
