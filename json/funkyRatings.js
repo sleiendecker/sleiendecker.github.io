@@ -1,4 +1,4 @@
-data = [
+funkyData = [
   {
     "NAME": "Funky Buddha 2018 Maple Bacon Coffee Porter",
     "BREWERY": "Funky Buddha Brewery",

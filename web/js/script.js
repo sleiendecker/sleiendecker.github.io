@@ -14,10 +14,6 @@ $(function () {
       { "data": "RATING" }
     ],
   });
-  
-  $.each(data, function (i, item) {
-    table.rows.add(data).draw();
-  });
-  table.draw();
+  table.rows.add(data).draw();;
   
 });
