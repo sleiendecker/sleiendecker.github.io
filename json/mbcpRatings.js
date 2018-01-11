@@ -12,10 +12,16 @@ data = [
     "URL": "https://untappd.com/b/7venth-sun-i-had-the-safety-off/2411900"
   },
   {
-    "NAME": "18th Street Brewery Bitches' Bank, Sex and Candy",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "NAME": "Bitches' Bank",
+    "BREWERY": "18th Street Brewery",
+    "RATING": "4.3",
+    "URL": "https://untappd.com/b/18th-street-brewery-bitches-bank/905634"
+  },
+  {
+    "NAME": "Sex and Candy",
+    "BREWERY": "18th Street Brewery",
+    "RATING": "3.84",
+    "URL": "https://untappd.com/b/18th-street-brewery-sex-and-candy/889044"
   },
   {
     "NAME": "Almond Joy White Russian Stout",
@@ -48,10 +54,10 @@ data = [
     "URL": "https://untappd.com/b/accomplice-brewery-and-ciderworks-maple-bacon-coffee-cider/2148981"
   },
   {
-    "NAME": "Accomplice Coconut Grove Cider",
-    "BREWERY": null,
+    "NAME": "Coconut Grove Cider",
+    "BREWERY": "Accomplice Brewery & Ciderworks",
     "RATING": "Not found",
-    "URL": null
+    "URL": "https://untappd.com/b/accomplice-brewery-ya-mon-coconut-cider/2059207"
   },
   {
     "NAME": "Galaxy",
@@ -90,10 +96,10 @@ data = [
     "URL": "https://untappd.com/b/ballast-point-brewing-company-coconut-victory-at-sea/818066"
   },
   {
-    "NAME": "Barrel of Monks Morta Cabernet Sauvignon Aged Tripel",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "NAME": "Morta Cabernet Sauvignon Aged Tripel",
+    "BREWERY": "Barrel of Monks",
+    "RATING": "4.26",
+    "URL": "https://untappd.com/b/barrel-of-monks-brewing-morta/2278099"
   },
   {
     "NAME": "Be Mine",
@@ -109,9 +115,9 @@ data = [
   },
   {
     "NAME": "Bayou Teche DDH Cocodrie",
-    "BREWERY": null,
+    "BREWERY": "Bayou Teche Brewing",
     "RATING": "Not found",
-    "URL": null
+    "URL": "https://untappd.com/b/bayou-teche-brewing-ddh-cocodrie/2467504"
   },
   {
     "NAME": "Scurvy Shyster Bastard",
@@ -163,9 +169,9 @@ data = [
   },
   {
     "NAME": "Copperpoint BA Cubano Coxness Monster Imperial Stout",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "BREWERY": "Copperpoint Brewing Co.",
+    "RATING": "0",
+    "URL": "https://untappd.com/b/copperpoint-brewing-co-ba-cubano-coxness-monster/2466247"
   },
   {
     "NAME": "B. Rabbit Espresso Cream Stout",
@@ -180,10 +186,10 @@ data = [
     "URL": null
   },
   {
-    "NAME": "Crooked Can La Femme Saubage Barrel Aged Quad",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "NAME": "La Femme Saubage Barrel Aged Quad",
+    "BREWERY": "Crooked Can",
+    "RATING": "4.2",
+    "URL": "https://untappd.com/b/crooked-can-la-femme-sauvage/2431058"
   },
   {
     "NAME": "CinnaMilk Cream Ale",
@@ -312,16 +318,16 @@ data = [
     "URL": "https://untappd.com/b/lauderale-c-porter/841758"
   },
   {
-    "NAME": "Lauder -Ale DDH Lunch $$$",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "NAME": "LauderAle DDH Lunch $$$",
+    "BREWERY": "Lauderale",
+    "RATING": "3.68",
+    "URL": "https://untappd.com/b/lauderale-lunch-money/1985009"
   },
   {
     "NAME": "Lord Hobo Glorious DDH Amarillo",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "BREWERY": "Lord Hobo",
+    "RATING": "3.85",
+    "URL": "https://untappd.com/b/lord-hobo-brewing-co-glorious/1061462"
   },
   {
     "NAME": "Consolation Prize",
@@ -355,9 +361,9 @@ data = [
   },
   {
     "NAME": "MIA Chinook Me All Night Long IPA",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "BREWERY": "M.I.A. Beer Co.",
+    "RATING": "3.73",
+    "URL": "https://untappd.com/b/m-i-a-beer-co-chinook-me-all-night-long/2355969"
   },
   {
     "NAME": "Imperial Smells Like Bean Spirit",
@@ -385,9 +391,9 @@ data = [
   },
   {
     "NAME": "Orchid Island DDH Star Ruby",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "BREWERY": "Orchid Island",
+    "RATING": "4.02",
+    "URL": "https://untappd.com/b/orchid-island-brewery-star-ruby-ipa/789826"
   },
   {
     "NAME": "Citron (2017)",
@@ -403,19 +409,19 @@ data = [
   },
   {
     "NAME": "Playalinda Cranberry Claus Ale",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "BREWERY": "Playalinda",
+    "RATING": "3.67",
+    "URL": "https://untappd.com/b/playalinda-brewing-company-cranberry-claus/2412845"
   },
   {
     "NAME": "Kolm Null Null Kolm (Cellar Series)",
-    "BREWERY": "Põhjala",
+    "BREWERY": "Pï¿½hjala",
     "RATING": "4.05",
     "URL": "https://untappd.com/b/pohjala-kolm-null-null-kolm-cellar-series/1940279"
   },
   {
     "NAME": "Kalana",
-    "BREWERY": "Põhjala",
+    "BREWERY": "Pï¿½hjala",
     "RATING": "3.738",
     "URL": "https://untappd.com/b/pohjala-kalana/1932841"
   },
@@ -438,16 +444,16 @@ data = [
     "URL": "https://untappd.com/b/proof-brewing-company-peach-mango-evil-kiss/2362293"
   },
   {
-    "NAME": "Proof Sometimes You Feel Like a Nut",
-    "BREWERY": null,
+    "NAME": "Sometimes You Feel Like a Nut",
+    "BREWERY": "Proof",
     "RATING": "Not found",
     "URL": null
   },
   {
     "NAME": "Resident Chasing Citra IPA",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "BREWERY": "Resident Brewing Company",
+    "RATING": "3.91",
+    "URL": "https://untappd.com/b/resident-brewing-company-chasing-citra/1478392"
   },
   {
     "NAME": "First Snow",
@@ -456,7 +462,7 @@ data = [
     "URL": "https://untappd.com/b/resident-brewing-company-first-snow/2370526"
   },
   {
-    "NAME": "Café Deth",
+    "NAME": "Cafï¿½ Deth",
     "BREWERY": "Revolution Brewing Company",
     "RATING": "4.278",
     "URL": "https://untappd.com/b/revolution-brewing-company-cafe-deth/998651"
@@ -481,9 +487,9 @@ data = [
   },
   {
     "NAME": "Saltwater Bourbon Hazelnut Coffee Mayday",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "BREWERY": "Saltwater Brewery",
+    "RATING": "4.24",
+    "URL": "https://untappd.com/b/saltwater-brewery-hazelnut-coffee-mayday/1455428"
   },
   {
     "NAME": "Confused In the Morning",
@@ -528,28 +534,28 @@ data = [
     "URL": "https://untappd.com/b/toppling-goliath-brewing-co-pseudo-sue/65644"
   },
   {
-    "NAME": "Walking Tree Oaked White Walking Tree IPA",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "NAME": "Oaked White Walking Tree IPA",
+    "BREWERY": "Walking Tree",
+    "RATING": "3.99",
+    "URL": "https://untappd.com/b/walking-tree-brewery-oaked-white-walking-tree/2084201"
   },
   {
-    "NAME": "Walking Red Wine Barrel Aged Candyman Belgian Tripel",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "NAME": "Red Wine Barrel Aged Candyman Belgian Tripel",
+    "BREWERY": "Walking Tree",
+    "RATING": "4.08",
+    "URL": "https://untappd.com/b/walking-tree-brewery-candyman-red-wine-barrel-aged-2017/2420868"
   },
   {
-    "NAME": "Wicked Barley Brewing Co Jax Freedom Ale",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "NAME": "Freedom Ale",
+    "BREWERY": "Wicked Barley Brewing Co Jax",
+    "RATING": "3.88",
+    "URL": "https://untappd.com/b/wicked-barley-brewing-company-freedom-ale/2194044"
   },
   {
-    "NAME": "Wicked Barley Brewing Co The Jeffery Double Stout",
-    "BREWERY": null,
-    "RATING": "Not found",
-    "URL": null
+    "NAME": "The Jeffery Double Stout",
+    "BREWERY": "Wicked Barley Brewing Co",
+    "RATING": "3.92",
+    "URL": "https://untappd.com/b/wicked-barley-brewing-company-the-jeffery/1934450"
   },
   {
     "NAME": "Oaxacan (Canvas Series)",
