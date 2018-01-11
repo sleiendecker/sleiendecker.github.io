@@ -32,7 +32,7 @@ data = [
   {
     "NAME": "Barrel Aged Sour Blonde",
     "BREWERY": "Aardwolf Brewing Company",
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
@@ -56,7 +56,7 @@ data = [
   {
     "NAME": "Coconut Grove Cider",
     "BREWERY": "Accomplice Brewery & Ciderworks",
-    "RATING": "Not found",
+    "RATING": null,
     "URL": "https://untappd.com/b/accomplice-brewery-ya-mon-coconut-cider/2059207"
   },
   {
@@ -116,7 +116,7 @@ data = [
   {
     "NAME": "Bayou Teche DDH Cocodrie",
     "BREWERY": "Bayou Teche Brewing",
-    "RATING": "Not found",
+    "RATING": null,
     "URL": "https://untappd.com/b/bayou-teche-brewing-ddh-cocodrie/2467504"
   },
   {
@@ -128,7 +128,7 @@ data = [
   {
     "NAME": "Caramel Bacon Cider",
     "BREWERY": "B Nektar",
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
@@ -168,7 +168,7 @@ data = [
     "URL": "https://untappd.com/b/civil-society-brewing-space-ponies/2114970"
   },
   {
-    "NAME": "Copperpoint BA Cubano Coxness Monster Imperial Stout",
+    "NAME": "BA Cubano Coxness Monster Imperial Stout",
     "BREWERY": "Copperpoint Brewing Co.",
     "RATING": "0",
     "URL": "https://untappd.com/b/copperpoint-brewing-co-ba-cubano-coxness-monster/2466247"
@@ -182,7 +182,7 @@ data = [
   {
     "NAME": "Lichtenhainer Cherry Wood Smoked Sour",
     "BREWERY": "Crooked Can",
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
@@ -265,8 +265,8 @@ data = [
   },
   {
     "NAME": "Bros Before Mos",
-    "BREWERY": null,
-    "RATING": "Not found",
+    "BREWERY": "Riptide Brewing Company",
+    "RATING": null,
     "URL": null
   },
   {
@@ -380,13 +380,13 @@ data = [
   {
     "NAME": "Non-Prophet Kombucha Ginger Beer",
     "BREWERY": null,
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
-    "NAME": "Non -Prophet Dry Hopped Kombucha",
+    "NAME": "Non-Prophet Dry Hopped Kombucha",
     "BREWERY": null,
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
@@ -408,20 +408,20 @@ data = [
     "URL": "https://untappd.com/b/playalinda-brewing-company-barn-light-saison/2295390"
   },
   {
-    "NAME": "Playalinda Cranberry Claus Ale",
+    "NAME": "Cranberry Claus Ale",
     "BREWERY": "Playalinda",
     "RATING": "3.67",
     "URL": "https://untappd.com/b/playalinda-brewing-company-cranberry-claus/2412845"
   },
   {
     "NAME": "Kolm Null Null Kolm (Cellar Series)",
-    "BREWERY": "P�hjala",
+    "BREWERY": "Põhjala",
     "RATING": "4.05",
     "URL": "https://untappd.com/b/pohjala-kolm-null-null-kolm-cellar-series/1940279"
   },
   {
     "NAME": "Kalana",
-    "BREWERY": "P�hjala",
+    "BREWERY": "Põhjala",
     "RATING": "3.738",
     "URL": "https://untappd.com/b/pohjala-kalana/1932841"
   },
@@ -446,7 +446,7 @@ data = [
   {
     "NAME": "Sometimes You Feel Like a Nut",
     "BREWERY": "Proof",
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
@@ -462,7 +462,7 @@ data = [
     "URL": "https://untappd.com/b/resident-brewing-company-first-snow/2370526"
   },
   {
-    "NAME": "Caf� Deth",
+    "NAME": "Café Deth",
     "BREWERY": "Revolution Brewing Company",
     "RATING": "4.278",
     "URL": "https://untappd.com/b/revolution-brewing-company-cafe-deth/998651"
@@ -476,7 +476,7 @@ data = [
   {
     "NAME": "Red Wrasse Berry Sour",
     "BREWERY": "Sailfish Brewing Company",
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
@@ -506,7 +506,7 @@ data = [
   {
     "NAME": "Shorts Arecibo",
     "BREWERY": null,
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
@@ -582,7 +582,7 @@ data = [
     "URL": "https://untappd.com/b/wynwood-brewing-company-goldman-extra-gold/2372872"
   },
   {
-    "NAME": "Funky Buddha 2018 Maple Bacon Coffee Porter",
+    "NAME": "2018 Maple Bacon Coffee Porter",
     "BREWERY": "Funky Buddha Brewery",
     "RATING": "4.35",
     "URL": "https://untappd.com/b/funky-buddha-brewery-maple-bacon-coffee-porter/21468"
@@ -618,9 +618,9 @@ data = [
     "URL": "https://untappd.com/b/funky-buddha-brewery-morning-wood/127376"
   },
   {
-    "NAME": "Funky Buddha Bourbon Barrel-aged Last Buffalo",
+    "NAME": "Bourbon Barrel-aged Last Buffalo",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
@@ -648,27 +648,27 @@ data = [
     "URL": "https://untappd.com/b/funky-buddha-brewery-bourbon-barrelaged-uncle-vucub/2363369"
   },
   {
-    "NAME": "Funky Buddha Get Pitted Barrel-aged Sour Ale ",
+    "NAME": "Get Pitted Barrel-aged Sour Ale ",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "Not found",
-    "URL": null
+    "RATING": "3.96",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-get-pitted/2125841"
   },
   {
-    "NAME": "Funky Buddha Bourbon Barrel-aged Juicing Room",
+    "NAME": "Bourbon Barrel-aged Juicing Room",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "Not found",
-    "URL": null
+    "RATING": "3.96",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-juicing-room/2123427"
   },
   {
-    "NAME": "Funky Buddha Limited Edition Bourbon Barrel-aged Morning Wood ",
+    "NAME": "Limited Edition Bourbon Barrel-aged Morning Wood ",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "Not found",
-    "URL": null
+    "RATING": null,
+    "URL": "https://untappd.com/b/funky-buddha-brewery-bourbon-barrel-aged-morning-wood-wild-turkey/2410236"
   },
   {
-    "NAME": "Funky Buddha Limited Edition Bourbon Barrel-aged Last Buffalo ",
+    "NAME": "Limited Edition Bourbon Barrel-aged Last Buffalo ",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
@@ -714,9 +714,9 @@ data = [
     "URL": "https://untappd.com/b/funky-buddha-brewery-last-snow/32504"
   },
   {
-    "NAME": "Funky Buddha Mint Julep Bourbon Ale",
+    "NAME": "Mint Julep Bourbon Ale",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
@@ -744,15 +744,15 @@ data = [
     "URL": "https://untappd.com/b/funky-buddha-brewery-strawberry-shortcake/1172609"
   },
   {
-    "NAME": "Funky Buddha Passionfruit Keylime Mojito Crusher",
+    "NAME": "Passionfruit Keylime Mojito Crusher",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
-    "NAME": "Funky Buddha Keylime Pie Tart",
+    "NAME": "Keylime Pie Tart",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "Not found",
+    "RATING": null,
     "URL": null
   },
   {
@@ -774,13 +774,13 @@ data = [
     "URL": "https://untappd.com/b/funky-buddha-brewery-strawberry-hop-gun/2380172"
   },
   {
-    "NAME": "Funky Buddha Devils Haircut Red Ale",
+    "NAME": "Devils Haircut Red Ale",
     "BREWERY": "Funky Buddha Brewery",
     "RATING": "3.61",
     "URL": "https://untappd.com/b/funky-buddha-brewery-devil-s-haircut/2417661"
   },
   {
-    "NAME": "Funky Buddha Hansel NEIPA",
+    "NAME": "Hansel NEIPA",
     "BREWERY": "Funky Buddha Brewery",
     "RATING": "3.71",
     "URL": "https://untappd.com/b/funky-buddha-brewery-hansel/2427888"
