@@ -379,15 +379,15 @@ data = [
   },
   {
     "NAME": "Non-Prophet Kombucha Ginger Beer",
-    "BREWERY": null,
+    "BREWERY": "Non-Prophet Brewing Co.",
     "RATING": null,
-    "URL": null
+    "URL": "https://untappd.com/b/non-prophet-brewing-co-gingerbeer/2113514"
   },
   {
     "NAME": "Non-Prophet Dry Hopped Kombucha",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "BREWERY": "Non-Prophet Brewing Co.",
+    "RATING": "3.83",
+    "URL": "https://untappd.com/b/non-prophet-brewing-kombucha-dry-hopped-with-citra/1144522"
   },
   {
     "NAME": "Orchid Island DDH Star Ruby",
