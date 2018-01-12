@@ -1,6 +1,6 @@
 $(function () {
-
   const table = $('table').DataTable({
+    "aaSorting": [[2, 'desc']],
     "lengthMenu": [[-1], ["All"]],
     "bLengthChange": false,
     "columns": [
