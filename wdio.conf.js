@@ -1,4 +1,4 @@
-const seleniumOpts = require('./config/selenium'),
+const seleniumOpts     = require('./config/selenium'),
     path               = require('path'),
     nodeModulesDir     = path.join(__dirname, 'node_modules'),
     phantomPath        = `${nodeModulesDir}/phantomjs-prebuilt/bin/phantomjs`,
@@ -27,16 +27,22 @@ exports.config = {
       //
     //   browserName: 'phantomjs',
     //   'phantomjs.binary.path': phantomPath,
-        browserName: 'chrome',
-        chromeOptions: {
-        args: [
-            '--headless',
-            '--disable-gpu',
-            '--window-size=1280,800'
-        ],
-        binary: chromePath
-        }
+    browserName: 'chrome',
+    chromeOptions: {
+    args: [
+        '--headless',
+        '--disable-gpu',
+        '--window-size=1280,800'
+    ],
+    binary: chromePath
+    }
   }],
+    services: [
+        'selenium-standalone'
+    ],
+    seleniumInstallArgs: seleniumOpts,
+    seleniumArgs: seleniumOpts,
+    seleniumLogs: './seleniumLogs',
   sync: true,
   logLevel: 'error',
   coloredLogs: true,
