@@ -12,19 +12,19 @@ data = [
     "URL": "https://untappd.com/b/brasserie-cantillon-vigneronne/5769"
   },
   {
-    "NAME": "Rosé de Gambrinus",
+    "NAME": "RosÃ© de Gambrinus",
     "BREWERY": "Brasserie Cantillon",
     "RATING": "4.342",
     "URL": "https://untappd.com/b/brasserie-cantillon-rose-de-gambrinus/13142"
   },
   {
-    "NAME": "Oude Gueuze Tilquin à L'Ancienne",
+    "NAME": "Oude Gueuze Tilquin Ã  L'Ancienne",
     "BREWERY": "Gueuzerie Tilquin",
     "RATING": "4.034",
     "URL": "https://untappd.com/b/gueuzerie-tilquin-oude-gueuze-tilquin-a-lancienne/59861"
   },
   {
-    "NAME": "Oude Quetsche Tilquin à l'Ancienne",
+    "NAME": "Oude Quetsche Tilquin Ã  l'Ancienne",
     "BREWERY": "Gueuzerie Tilquin",
     "RATING": "4.238",
     "URL": "https://untappd.com/b/gueuzerie-tilquin-oude-quetsche-tilquin-a-lancienne/226919"
@@ -103,7 +103,7 @@ data = [
   },
   {
     "NAME": "Here Comes the Night Time",
-    "BREWERY": "Põhjala",
+    "BREWERY": "PÃµhjala",
     "RATING": "3.554",
     "URL": "https://untappd.com/b/pohjala-here-comes-the-night-time/2124233"
   },
@@ -187,9 +187,9 @@ data = [
   },
   {
     "NAME": "Perennial/Jester King-Til the Night",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "BREWERY": "Perennial Artisan Ales",
+    "RATING": "4.06",
+    "URL": "https://untappd.com/b/perennial-artisan-ales-til-the-night-closes-in/2486252"
   },
   {
     "NAME": "Perennial Pale Ale",
@@ -258,7 +258,7 @@ data = [
     "URL": "https://untappd.com/b/allagash-brewing-company-white/5862"
   },
   {
-    "NAME": "Émile",
+    "NAME": "Ã‰mile",
     "BREWERY": "Allagash Brewing Company",
     "RATING": "4.016",
     "URL": "https://untappd.com/b/allagash-brewing-company-emile/1803063"
@@ -312,20 +312,14 @@ data = [
     "URL": "https://untappd.com/b/perennial-artisan-ales-funky-wit-2016/1614899"
   },
   {
-    "NAME": "Foeder Saison (2016)",
-    "BREWERY": "Perennial Artisan Ales",
-    "RATING": "4.125",
-    "URL": "https://untappd.com/b/perennial-artisan-ales-foeder-saison-2016/1581917"
-  },
-  {
     "NAME": "17",
     "BREWERY": "Perennial Artisan Ales",
     "RATING": "3.93",
     "URL": "https://untappd.com/b/perennial-artisan-ales-17/146475"
   },
   {
-    "NAME": "Blackberry farms Super Saison",
-    "BREWERY": null,
+    "NAME": "Super Saison",
+    "BREWERY": "Blackberry Farm Brewery",
     "RATING": null,
     "URL": null
   },
@@ -379,9 +373,9 @@ data = [
   },
   {
     "NAME": "Blackberry farms Triple 2016",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "BREWERY": "Blackberry Farm Brewery",
+    "RATING": "4.05",
+    "URL": "https://untappd.com/b/blackberry-farm-brewery-trippel/560568"
   },
   {
     "NAME": "Barrel Series Brett Fruit Blend (2017)",
@@ -409,9 +403,9 @@ data = [
   },
   {
     "NAME": "Blackberry farms Noble Cuvee Dry Hopped Saison",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "BREWERY": "Blackberry Farm Brewery",
+    "RATING": "3.82",
+    "URL": "https://untappd.com/b/blackberry-farm-brewery-noble-cuvee-dry-hop-saison-2017/1866191"
   },
   {
     "NAME": "Peel Your Face (Yazoo/Embrace the Funk Collaboration)",
@@ -456,7 +450,7 @@ data = [
     "URL": "https://untappd.com/b/brasserie-cantillon-classic-gueuze/26062"
   },
   {
-    "NAME": "Oude Geuze Cuvée Armand & Gaston",
+    "NAME": "Oude Geuze CuvÃ©e Armand & Gaston",
     "BREWERY": "Brouwerij 3 Fonteinen",
     "RATING": "4.45",
     "URL": "https://untappd.com/b/brouwerij-3-fonteinen-oude-geuze-cuvee-armand-and-gaston/1594814"
@@ -486,13 +480,13 @@ data = [
     "URL": "https://untappd.com/b/brouwerij-alvinne-ich-bin-ein-berliner-framboos/1514162"
   },
   {
-    "NAME": "Cuvée De Mortagne",
+    "NAME": "CuvÃ©e De Mortagne",
     "BREWERY": "Brouwerij Alvinne",
     "RATING": "3.965",
     "URL": "https://untappd.com/b/brouwerij-alvinne-cuvee-de-mortagne/166112"
   },
   {
-    "NAME": "Cuvée Freddy",
+    "NAME": "CuvÃ©e Freddy",
     "BREWERY": "Brouwerij Alvinne",
     "RATING": "3.98",
     "URL": "https://untappd.com/b/brouwerij-alvinne-cuvee-freddy/7700"
@@ -535,9 +529,9 @@ data = [
   },
   {
     "NAME": "Alvinne Wild West French Plum",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "BREWERY": "Brouwerij Alvinne",
+    "RATING": "4.04",
+    "URL": "https://untappd.com/b/brouwerij-alvinne-wild-west-plum-edition-2015/1360731"
   },
   {
     "NAME": "Wild West Grape Edition 2015",
@@ -594,55 +588,25 @@ data = [
     "URL": "https://untappd.com/b/de-halve-maan-brugse-zot/4713"
   },
   {
-    "NAME": "Kriek 100% Lambic",
-    "BREWERY": "Brasserie Cantillon",
-    "RATING": "4.301",
-    "URL": "https://untappd.com/b/brasserie-cantillon-kriek-100-lambic/36432"
-  },
-  {
-    "NAME": "Rosé de Gambrinus",
-    "BREWERY": "Brasserie Cantillon",
-    "RATING": "4.342",
-    "URL": "https://untappd.com/b/brasserie-cantillon-rose-de-gambrinus/13142"
-  },
-  {
-    "NAME": "Saint Lamvinus Grand Cru",
-    "BREWERY": "Brasserie Cantillon",
-    "RATING": "4.438",
-    "URL": "https://untappd.com/b/brasserie-cantillon-saint-lamvinus-grand-cru/1885033"
-  },
-  {
-    "NAME": "Vigneronne",
-    "BREWERY": "Brasserie Cantillon",
-    "RATING": "4.457",
-    "URL": "https://untappd.com/b/brasserie-cantillon-vigneronne/5769"
-  },
-  {
-    "NAME": "Classic Gueuze",
-    "BREWERY": "Brasserie Cantillon",
-    "RATING": "4.301",
-    "URL": "https://untappd.com/b/brasserie-cantillon-classic-gueuze/26062"
-  },
-  {
-    "NAME": "Chimay Blue / Bleue / Blauw (Grande Réserve)",
-    "BREWERY": "Bières de Chimay",
+    "NAME": "Chimay Blue / Bleue / Blauw (Grande RÃ©serve)",
+    "BREWERY": "BiÃ¨res de Chimay",
     "RATING": "3.972",
     "URL": "https://untappd.com/b/bieres-de-chimay-chimay-blue-bleue-blauw-grande-reserve/34039"
   },
   {
     "NAME": "Chimay Triple / Tripel (Cinq Cents)",
-    "BREWERY": "Bières de Chimay",
+    "BREWERY": "BiÃ¨res de Chimay",
     "RATING": "3.795",
     "URL": "https://untappd.com/b/bieres-de-chimay-chimay-triple-tripel-cinq-cents/10049"
   },
   {
-    "NAME": "Chimay Red / Rouge / Rood (Première)",
-    "BREWERY": "Bières de Chimay",
+    "NAME": "Chimay Red / Rouge / Rood (PremiÃ¨re)",
+    "BREWERY": "BiÃ¨res de Chimay",
     "RATING": "3.795",
     "URL": "https://untappd.com/b/bieres-de-chimay-chimay-red-rouge-rood-premiere/4072"
   },
   {
-    "NAME": "MéLange",
+    "NAME": "MÃ©Lange",
     "BREWERY": "Brouwerij De Brabandere",
     "RATING": "3.783",
     "URL": "https://untappd.com/b/brouwerij-de-brabandere-melange/1075905"
@@ -744,19 +708,19 @@ data = [
     "URL": "https://untappd.com/b/brouwerij-de-leite-cuvee-mamzelle/127970"
   },
   {
-    "NAME": "Cuvée Soeur'ise",
+    "NAME": "CuvÃ©e Soeur'ise",
     "BREWERY": "Brouwerij De Leite",
     "RATING": "3.798",
     "URL": "https://untappd.com/b/brouwerij-de-leite-cuvee-soeurise/295785"
   },
   {
-    "NAME": "Fils à Papa VI",
+    "NAME": "Fils Ã  Papa VI",
     "BREWERY": "Brouwerij De Leite",
     "RATING": "3.277",
     "URL": "https://untappd.com/b/brouwerij-de-leite-fils-a-papa-vi/1935986"
   },
   {
-    "NAME": "Ma Mère Speciale",
+    "NAME": "Ma MÃ¨re Speciale",
     "BREWERY": "Brouwerij De Leite",
     "RATING": "3.232",
     "URL": "https://untappd.com/b/brouwerij-de-leite-ma-mere-speciale/91989"
@@ -786,7 +750,7 @@ data = [
     "URL": "https://untappd.com/b/brouwerij-de-ranke-hop-harvest-2017/2221844"
   },
   {
-    "NAME": "Père Noël",
+    "NAME": "PÃ¨re NoÃ«l",
     "BREWERY": "Brouwerij De Ranke",
     "RATING": "3.461",
     "URL": "https://untappd.com/b/brouwerij-de-ranke-pere-noel/12897"
@@ -835,13 +799,13 @@ data = [
   },
   {
     "NAME": "Pissenlit",
-    "BREWERY": "Brasserie Fantôme",
+    "BREWERY": "Brasserie FantÃ´me",
     "RATING": "3.779",
     "URL": "https://untappd.com/b/brasserie-fantome-pissenlit/20254"
   },
   {
-    "NAME": "Fantôme (Saison)",
-    "BREWERY": "Brasserie Fantôme",
+    "NAME": "FantÃ´me (Saison)",
+    "BREWERY": "Brasserie FantÃ´me",
     "RATING": "3.913",
     "URL": "https://untappd.com/b/brasserie-fantome-fantome-saison/107214"
   },
@@ -888,16 +852,10 @@ data = [
     "URL": "https://untappd.com/b/brouwerij-het-anker-lucifer-black/1016263"
   },
   {
-    "NAME": "Het Nest BA Dead Mans Hand (Cognac)",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
-  },
-  {
-    "NAME": "Het Nest BA Dead Mans Hand (Whiskey)",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "NAME": "Dead Man's Hand (Whisky Barrel Aged)",
+    "BREWERY": "Brouwerij Het Nest",
+    "RATING": "3.9",
+    "URL": "https://untappd.com/b/brouwerij-het-nest-dead-man-s-hand-whisky-barrel-aged/1924607"
   },
   {
     "NAME": "SchuppenBoer Tripel Grand Cru Cognac Barrel Aged",
@@ -996,16 +954,10 @@ data = [
     "URL": "https://untappd.com/b/brouwerij-oud-beersel-oude-lambiek/291967"
   },
   {
-    "NAME": "Préaris Grand Cru BA Bourbon",
+    "NAME": "Prï¿½aris Grand Cru BA Bourbon",
     "BREWERY": "Vliegende Paard Brouwers",
     "RATING": "4.063",
     "URL": "https://untappd.com/b/vliegende-paard-brouwers-prearis-grand-cru-ba-bourbon/1868317"
-  },
-  {
-    "NAME": "Alexander",
-    "BREWERY": "Brouwerij Rodenbach",
-    "RATING": "4.204",
-    "URL": "https://untappd.com/b/brouwerij-rodenbach-alexander/2324"
   },
   {
     "NAME": "Alexander",
@@ -1036,12 +988,6 @@ data = [
     "BREWERY": "Brouwerij Slaapmutske",
     "RATING": "3.576",
     "URL": "https://untappd.com/b/brouwerij-slaapmutske-slaapmutske-tripel/54437"
-  },
-  {
-    "NAME": "Abt 12",
-    "BREWERY": "Brouwerij St. Bernardus",
-    "RATING": "4.082",
-    "URL": "https://untappd.com/b/brouwerij-st-bernardus-abt-12/6760"
   },
   {
     "NAME": "Abt 12",
@@ -1086,28 +1032,16 @@ data = [
     "URL": "https://untappd.com/b/brouwerij-van-honsebrouck-st-louis-kriek-fond-tradition/479651"
   },
   {
-    "NAME": "Straffe Hendrick Heritage 2013 Cognac",
-    "BREWERY": null,
+    "NAME": "2013 Cognac",
+    "BREWERY": "Straffe Hendrik Heritage",
     "RATING": null,
     "URL": null
   },
   {
     "NAME": "Straffe Hendrick Heritage 2014 Brandy",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
-  },
-  {
-    "NAME": "Oude Gueuze Tilquin à L'Ancienne",
-    "BREWERY": "Gueuzerie Tilquin",
-    "RATING": "4.034",
-    "URL": "https://untappd.com/b/gueuzerie-tilquin-oude-gueuze-tilquin-a-lancienne/59861"
-  },
-  {
-    "NAME": "Oude Quetsche Tilquin à l'Ancienne",
-    "BREWERY": "Gueuzerie Tilquin",
-    "RATING": "4.238",
-    "URL": "https://untappd.com/b/gueuzerie-tilquin-oude-quetsche-tilquin-a-lancienne/226919"
+    "BREWERY": "Straffe Hendrik Heritage",
+    "RATING": "4.19",
+    "URL": "https://untappd.com/b/de-halve-maan-straffe-hendrik-heritage-2014/918560"
   },
   {
     "NAME": "Stout Rullquin",
@@ -1182,7 +1116,7 @@ data = [
     "URL": "https://untappd.com/b/brouwerij-van-steenberge-gulden-draak/6758"
   },
   {
-    "NAME": "Monk's Café Flemish Sour Ale",
+    "NAME": "Monk's CafÃ© Flemish Sour Ale",
     "BREWERY": "Brouwerij Van Steenberge",
     "RATING": "3.844",
     "URL": "https://untappd.com/b/brouwerij-van-steenberge-monks-cafe-flemish-sour-ale/21927"
@@ -1296,8 +1230,8 @@ data = [
     "URL": "https://untappd.com/b/bullfrog-brewery-le-roar-grrrz-kriek-batch-3/1263641"
   },
   {
-    "NAME": "Bullfrog Le Roar Cocoa Framboise",
-    "BREWERY": null,
+    "NAME": "Le Roar Cocoa Framboise",
+    "BREWERY": "Bullfrog Brewery",
     "RATING": null,
     "URL": null
   },
@@ -1314,8 +1248,8 @@ data = [
     "URL": "https://untappd.com/b/burley-oak-brewing-company-blackberry-mango-jream/2468515"
   },
   {
-    "NAME": "Burley Oak Blueberry Cobbler JREAM",
-    "BREWERY": null,
+    "NAME": "Blueberry Cobbler JREAM",
+    "BREWERY": "Burley Oak Brewing Company",
     "RATING": null,
     "URL": null
   },
@@ -1338,8 +1272,8 @@ data = [
     "URL": "https://untappd.com/b/burley-oak-brewing-company-grape-squish-chardonnay/2455801"
   },
   {
-    "NAME": "Burley Oak Level",
-    "BREWERY": null,
+    "NAME": "Level",
+    "BREWERY": "Burley Oak Brewing Company",
     "RATING": null,
     "URL": null
   },
@@ -1386,16 +1320,10 @@ data = [
     "URL": "https://untappd.com/b/council-brewing-company-woofle-dust-with-apricots/1952624"
   },
   {
-    "NAME": "Council/Modern Times-Modern Magic",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
-  },
-  {
-    "NAME": "Smoked and Oaked",
-    "BREWERY": "Epic Brewing Co. (Utah, Colorado)",
-    "RATING": "3.845",
-    "URL": "https://untappd.com/b/epic-brewing-co-utah-colorado-smoked-and-oaked/20305"
+    "NAME": "Modern Magic",
+    "BREWERY": "Council Brewing Company",
+    "RATING": "4.22",
+    "URL": "https://untappd.com/b/council-brewing-company-modern-magic/2384205"
   },
   {
     "NAME": "Smoked and Oaked",
@@ -1494,10 +1422,10 @@ data = [
     "URL": "https://untappd.com/b/lost-rhino-brewing-company-genius-loci-series-exesus-sanctum-sour-peach-barrel-blend/866330"
   },
   {
-    "NAME": "Manor Hill Oud Bruin w/ Figs",
-    "BREWERY": null,
+    "NAME": "Oud Bruin: Fig & Pomegranate",
+    "BREWERY": "Manor Hill Brewing",
     "RATING": null,
-    "URL": null
+    "URL": "https://untappd.com/b/manor-hill-brewing-oud-bruin-fig-and-pomegranate/2444046"
   },
   {
     "NAME": "American Brown Ale",
@@ -1506,16 +1434,16 @@ data = [
     "URL": "https://untappd.com/b/monument-city-brewing-american-brown-ale/882783"
   },
   {
-    "NAME": "New Belgium Felix Apple Whiskey $33",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "NAME": "Felix - Aged In Apple Whiskey Barrels",
+    "BREWERY": "New Belgium Brewing Company",
+    "RATING": "4.07",
+    "URL": "https://untappd.com/b/new-belgium-brewing-company-felix-aged-in-apple-whiskey-barrels/2275095"
   },
   {
-    "NAME": "New Belgium Oscar Blackberry Whiskey $17",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "NAME": "Oscar Aged In Blackberry Whiskey Barrels",
+    "BREWERY": "New Belgium Brewing Company",
+    "RATING": "4.15",
+    "URL": "https://untappd.com/b/new-belgium-brewing-company-oscar-aged-in-blackberry-whiskey-barrels/2325405"
   },
   {
     "NAME": "Single Foeder Felix No 61",
@@ -1536,10 +1464,10 @@ data = [
     "URL": "https://untappd.com/b/new-belgium-brewing-company-oscar-worthy-coffee/337356"
   },
   {
-    "NAME": "OEC Pasca 2016",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "NAME": "Pasca 2016",
+    "BREWERY": "OEC Brewing (Ordinem Ecentrici Coctores)",
+    "RATING": "4.06",
+    "URL": "https://untappd.com/b/oec-brewing-ordinem-ecentrici-coctores-pasca/1603108"
   },
   {
     "NAME": "Vetus (Blend 1)",
@@ -1572,38 +1500,38 @@ data = [
     "URL": "https://untappd.com/b/oec-brewing-ordinem-ecentrici-coctores-artista-zynergia-stramboozled/2328282"
   },
   {
-    "NAME": "Prairie-vous Français",
+    "NAME": "Prairie-vous FranÃ§ais",
     "BREWERY": "Prairie Artisan Ales",
     "RATING": "3.727",
     "URL": "https://untappd.com/b/prairie-artisan-ales-prairievous-francais/909611"
   },
   {
     "NAME": "Train To Beersel",
-    "BREWERY": "Bruery Terreux®",
+    "BREWERY": "Bruery Terreux",
     "RATING": "4.15",
     "URL": "https://untappd.com/b/bruery-terreux-train-to-beersel/2233184"
   },
   {
-    "NAME": "Mélange No. 1 (2016)",
-    "BREWERY": "Bruery Terreux®",
+    "NAME": "MÃ©lange No. 1 (2016)",
+    "BREWERY": "Bruery Terreux",
     "RATING": "4.109",
     "URL": "https://untappd.com/b/bruery-terreux-melange-no-1-2016/1383235"
   },
   {
-    "NAME": "The Bruery Terreaux/Jester King-Bouffon",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "NAME": "Bouffon",
+    "BREWERY": "Bruery Terreux",
+    "RATING": "3.88",
+    "URL": "https://untappd.com/b/bruery-terreux-r-bouffon/2278696"
   },
   {
     "NAME": "Filmishmish (2016)",
-    "BREWERY": "Bruery Terreux®",
+    "BREWERY": "Bruery Terreux",
     "RATING": "4.244",
     "URL": "https://untappd.com/b/bruery-terreux-filmishmish-2016/1412897"
   },
   {
     "NAME": "Summa Vitis",
-    "BREWERY": "Bruery Terreux®",
+    "BREWERY": "Bruery Terreux",
     "RATING": "3.916",
     "URL": "https://untappd.com/b/bruery-terreux-summa-vitis/2102078"
   },
@@ -1614,8 +1542,8 @@ data = [
     "URL": "https://untappd.com/b/union-craft-brewing-older-pro-apricot/2398391"
   },
   {
-    "NAME": "Union Older Pro Gin BA",
-    "BREWERY": null,
+    "NAME": "Older Pro Gin BA",
+    "BREWERY": "Union Craft Brewing",
     "RATING": null,
     "URL": null
   },
@@ -1627,9 +1555,9 @@ data = [
   },
   {
     "NAME": "Union BA Midnight Maurder ",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "BREWERY": "Union Craft Brewing",
+    "RATING": "3.88",
+    "URL": "https://untappd.com/b/union-craft-brewing-midnight-marauder/1875472"
   },
   {
     "NAME": "Anchorage/Jolly Pumpkin-Matame Aherta",
@@ -1638,16 +1566,16 @@ data = [
     "URL": null
   },
   {
-    "NAME": "Avery Certatio Equestris 2016",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "NAME": "Certatio Equestris",
+    "BREWERY": "Avery Brewing Co.",
+    "RATING": "3.98",
+    "URL": "https://untappd.com/b/avery-brewing-co-certatio-equestris/1600741"
   },
   {
-    "NAME": "Avery Lunctis Viribus 2016",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "NAME": "Lunctis Viribus",
+    "BREWERY": "Avery Brewing Co.",
+    "RATING": "4.14",
+    "URL": "https://untappd.com/b/avery-brewing-co-lunctis-viribus/1429502"
   },
   {
     "NAME": "Bullfrog Le Roar Grrrz Arandei",
@@ -1699,7 +1627,7 @@ data = [
   },
   {
     "NAME": "One Way Or Another",
-    "BREWERY": "Bruery Terreux®",
+    "BREWERY": "Bruery Terreux",
     "RATING": "4.151",
     "URL": "https://untappd.com/b/bruery-terreux-one-way-or-another/2283441"
   },
@@ -1716,10 +1644,10 @@ data = [
     "URL": "https://untappd.com/b/council-brewing-company-vienne/1021872"
   },
   {
-    "NAME": "Epic/The Commons-Common Interests",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "NAME": "The Commons-Common Interests",
+    "BREWERY": "Epic Brewing Co",
+    "RATING": "3.78",
+    "URL": "https://untappd.com/b/epic-brewing-co-utah-colorado-common-interests/2321298"
   },
   {
     "NAME": "Black Briar",
@@ -1752,7 +1680,7 @@ data = [
     "URL": "https://untappd.com/b/epic-brewing-co-utah-colorado-sour-brainless-on-pineapple/1837396"
   },
   {
-    "NAME": "Arctic Soirée",
+    "NAME": "Arctic SoirÃ©e",
     "BREWERY": "Grassroots Brewing",
     "RATING": "3.818",
     "URL": "https://untappd.com/b/grassroots-brewing-arctic-soiree/552428"
@@ -1768,12 +1696,6 @@ data = [
     "BREWERY": "Green Bench Brewing Co",
     "RATING": "3.982",
     "URL": "https://untappd.com/b/green-bench-brewing-co-tiki-tack/2249037"
-  },
-  {
-    "NAME": "Cherry Raspberry Pop!",
-    "BREWERY": "Grimm Artisanal Ales",
-    "RATING": "4.107",
-    "URL": "https://untappd.com/b/grimm-artisanal-ales-cherry-raspberry-pop/1794428"
   },
   {
     "NAME": "Apricot Pop!",
@@ -1824,7 +1746,7 @@ data = [
     "URL": "https://untappd.com/b/jester-king-brewery-no-whalez-here/2345702"
   },
   {
-    "NAME": "Buddhas Brew",
+    "NAME": "Buddha\u0019s Brew",
     "BREWERY": "Jester King Brewery",
     "RATING": "4.003",
     "URL": "https://untappd.com/b/jester-king-brewery-buddhas-brew/223159"
@@ -1921,15 +1843,15 @@ data = [
   },
   {
     "NAME": "Frucht: Raspberry, Lychee & Tangerine",
-    "BREWERY": "Bruery Terreux®",
+    
     "RATING": "4.034",
     "URL": "https://untappd.com/b/bruery-terreux-frucht-raspberry-lychee-and-tangerine/2264735"
   },
   {
-    "NAME": "The Bruery Terreux/Garage Project-Ngongo",
-    "BREWERY": null,
-    "RATING": null,
-    "URL": null
+    "NAME": "Ngongo",
+    "BREWERY": "Bruery Terreux",
+    "RATING": "3.73",
+    "URL": "https://untappd.com/b/bruery-terreux-r-ngongo/2278700"
   },
   {
     "NAME": "Wisdom's Hour",
@@ -1998,7 +1920,7 @@ data = [
     "URL": "https://untappd.com/b/cascade-brewing-company-usa-tangerine-dream-nw/374338"
   },
   {
-    "NAME": "Sang Du Chêne",
+    "NAME": "Sang Du ChÃªne",
     "BREWERY": "Cascade Brewing Company (USA)",
     "RATING": "4.145",
     "URL": "https://untappd.com/b/cascade-brewing-company-usa-sang-du-chene/1863047"
