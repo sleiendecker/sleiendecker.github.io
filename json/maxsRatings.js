@@ -1843,7 +1843,7 @@ data = [
   },
   {
     "NAME": "Frucht: Raspberry, Lychee & Tangerine",
-    
+    "BREWERY": "Bruery Terreux",
     "RATING": "4.034",
     "URL": "https://untappd.com/b/bruery-terreux-frucht-raspberry-lychee-and-tangerine/2264735"
   },
