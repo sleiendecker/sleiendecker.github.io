@@ -36,10 +36,10 @@ data = [
     "URL": "https://untappd.com/b/8-wired-brewing-co-hippy-berliner-cucumber-edition/1286325"
   },
   {
-    "NAME": "Fundamental Summation (2017)",
-    "BREWERY": "Bottle Logic Brewing",
-    "RATING": "4.641",
-    "URL": "https://untappd.com/b/bottle-logic-brewing-fundamental-summation-2017/2101560"
+    "NAME": "Summation",
+    "BREWERY": "3 Sons Brewing Co",
+    "RATING": "4.62",
+    "URL": "https://untappd.com/b/3-sons-brewing-co-summation/564997"
   },
   {
     "NAME": "Boysen tha Hood",
