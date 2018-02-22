@@ -1255,15 +1255,15 @@ data = [
   }
 ]
 
-// console.log(data.length)
-// function countNulls(array) {
-//   let count = 0;
-//   for (let i = 0; i < array.length; i++) {
-//     const obj = array[i];
-//     if (!obj.URL) count += 1;
-//   }
-//   console.log(`Missing ${count} ratings`);
-// }
+console.log(data.length)
+function countNulls(array) {
+  let count = 0;
+  for (let i = 0; i < array.length; i++) {
+    const obj = array[i];
+    if (!obj.URL) count += 1;
+  }
+  console.log(`Missing ${count} ratings`);
+}
 
 
-// countNulls(data)
+countNulls(data)
