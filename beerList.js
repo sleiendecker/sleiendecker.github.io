@@ -74,7 +74,6 @@ beers.all = [
   // 'Toppling Goliath Assassin',
   // 'Toppling Goliath King Sue',
   // 'Toppling Goliath Fire',
-  // 'Toppling Goliath  ',
   // 'Toppling Goliath Pompeii',
   // 'Toppling Goliath Hopsmack',
   // 'Transient Artisan Ales The Juice is Loose',

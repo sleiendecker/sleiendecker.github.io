@@ -426,12 +426,6 @@ data = [
     "URL": "https://untappd.com/b/toppling-goliath-brewing-co-fire-skulls-and-money/1983877"
   },
   {
-    "NAME": "Assassin (2016)",
-    "BREWERY": "Toppling Goliath Brewing Co.",
-    "RATING": "4.666",
-    "URL": "https://untappd.com/b/toppling-goliath-brewing-co-assassin-2016/1819378"
-  },
-  {
     "NAME": "King Sue",
     "BREWERY": "Toppling Goliath Brewing Co.",
     "RATING": "4.508",
