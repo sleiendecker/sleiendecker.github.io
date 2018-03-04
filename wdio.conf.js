@@ -48,13 +48,13 @@ exports.config = {
   coloredLogs: true,
   screenshotPath: './errorShots/',
   baseUrl: 'http://localhost',
-  waitforTimeout: 10000000,
-  connectionRetryTimeout: 90000,
+  waitforTimeout: 5000000,
+  connectionRetryTimeout: 5000000,
   connectionRetryCount: 3,
   framework: 'mocha',
   mochaOpts: {
       ui: 'bdd',
-      timeout: 2000000000
+      timeout: 5000000
   },
   beforeSuite: (suite) => {
   },
