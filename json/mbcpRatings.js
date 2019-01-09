@@ -1,756 +1,816 @@
 data = [
   {
-    "NAME": "Project Popsicle",
-    "BREWERY": "7venth Sun",
-    "RATING": "3.762",
-    "URL": "https://untappd.com/b/7venth-sun-project-popsicle/2093813"
+    "NAME": "Sawyer",
+    "BREWERY": "2Toms Brewing Co.",
+    "RATING": "4.034",
+    "URL": "https://untappd.com/b/2toms-brewing-co-sawyer/2906455"
   },
   {
-    "NAME": "I Had the Safety Off",
-    "BREWERY": "7venth Sun",
-    "RATING": "3.911",
-    "URL": "https://untappd.com/b/7venth-sun-i-had-the-safety-off/2411900"
+    "NAME": "El Cucuy Mole Stout",
+    "BREWERY": "2Toms Brewing Co.",
+    "RATING": "3.984",
+    "URL": "https://untappd.com/b/2toms-brewing-co-el-cucuy-mole-stout/2000959"
   },
   {
-    "NAME": "Bitches' Bank",
-    "BREWERY": "18th Street Brewery",
-    "RATING": "4.3",
-    "URL": "https://untappd.com/b/18th-street-brewery-bitches-bank/905634"
-  },
-  {
-    "NAME": "Sex and Candy",
-    "BREWERY": "18th Street Brewery",
-    "RATING": "3.84",
-    "URL": "https://untappd.com/b/18th-street-brewery-sex-and-candy/889044"
-  },
-  {
-    "NAME": "Almond Joy White Russian Stout",
-    "BREWERY": "Aardwolf Brewing Company",
-    "RATING": null,
-    "URL": "https://untappd.com/b/aardwolf-brewing-company-almond-joy-white-russian-stout/2466020"
-  },
-  {
-    "NAME": "Barrel Aged Sour Blonde",
-    "BREWERY": "Aardwolf Brewing Company",
+    "NAME": "My Everything",
+    "BREWERY": "7venth Sun Brewing",
     "RATING": null,
     "URL": null
   },
   {
-    "NAME": "Indieversity: Brick In Yo Face",
-    "BREWERY": "Abnormal Beer Co",
-    "RATING": "4.016",
-    "URL": "https://untappd.com/b/abnormal-beer-co-indieversity-brick-in-yo-face/2419749"
+    "NAME": "Image Is Everything",
+    "BREWERY": "7venth Sun Brewing ",
+    "RATING": "3.99",
+    "URL": "https://untappd.com/b/7venth-sun-brewery-image-is-everything/2987944"
   },
   {
-    "NAME": "Hopsalada",
-    "BREWERY": "Abnormal Beer Co",
-    "RATING": "3.813",
-    "URL": "https://untappd.com/b/abnormal-beer-co-hopsalada/2336494"
+    "NAME": "Freaky Flow",
+    "BREWERY": "18th Street Brewery",
+    "RATING": "4.015",
+    "URL": "https://untappd.com/b/18th-street-brewery-freaky-flow/2961297"
+  },
+  {
+    "NAME": "Invisible Benefactor",
+    "BREWERY": "18th Street Brewery",
+    "RATING": "3.826",
+    "URL": "https://untappd.com/b/18th-street-brewery-invisible-benefactor/2956155"
+  },
+  {
+    "NAME": "Invisible Benefactor",
+    "BREWERY": "18th Street Brewery",
+    "RATING": "3.83",
+    "URL": "https://untappd.com/b/18th-street-brewery-invisible-benefactor/2956155"
+  },
+  {
+    "NAME": "Here Plums the Sun",
+    "BREWERY": "81Bay Brewing Co.",
+    "RATING": "4.122",
+    "URL": "https://untappd.com/b/81bay-brewing-co-here-plums-the-sun/2935845"
+  },
+  {
+    "NAME": "Guzumba",
+    "BREWERY": "81Bay Brewing Co.",
+    "RATING": "4.333",
+    "URL": "https://untappd.com/b/81bay-brewing-co-guzumba/2986286"
+  },
+  {
+    "NAME": "Flapjack Nuggets",
+    "BREWERY": "450 North Brewing Company",
+    "RATING": "4.137",
+    "URL": "https://untappd.com/b/450-north-brewing-company-flapjack-nuggets/2665534"
+  },
+  {
+    "NAME": "Hazy Nuggets",
+    "BREWERY": "450 North Brewing Company",
+    "RATING": "4.127",
+    "URL": "https://untappd.com/b/450-north-brewing-company-hazy-nuggets/2994654"
+  },
+  {
+    "NAME": "SLUSHY Sunny Paradise",
+    "BREWERY": "450 North Brewing Company",
+    "RATING": "4.375",
+    "URL": "https://untappd.com/b/450-north-brewing-company-slushy-sunny-paradise/2994659"
+  },
+  {
+    "NAME": "Birthday Sasquatch",
+    "BREWERY": "903 Brewers",
+    "RATING": "4.115",
+    "URL": "https://untappd.com/b/903-brewers-birthday-sasquatch/1921403"
+  },
+  {
+    "NAME": "BA Birthday Sasquatch",
+    "BREWERY": "903 Brewers",
+    "RATING": "4.246",
+    "URL": "https://untappd.com/b/903-brewers-ba-birthday-sasquatch/2046939"
+  },
+  {
+    "NAME": "Aardwolf Space Jam - Apricot",
+    "BREWERY": "Aardwolf Brewing Company",
+    "RATING": "3.563",
+    "URL": "https://untappd.com/b/aardwolf-brewing-company-aardwolf-space-jam-apricot/2946461"
+  },
+  {
+    "NAME": "CCCP White Russian",
+    "BREWERY": "Aardwolf Brewing Company",
+    "RATING": "4.29",
+    "URL": "https://untappd.com/b/aardwolf-brewing-company-cccp-white-russian/2927053"
   },
   {
     "NAME": "Maple Bacon Coffee Cider",
     "BREWERY": "Accomplice Brewery & Ciderworks",
-    "RATING": null,
+    "RATING": "3.022",
     "URL": "https://untappd.com/b/accomplice-brewery-and-ciderworks-maple-bacon-coffee-cider/2148981"
   },
   {
-    "NAME": "Coconut Grove Cider",
+    "NAME": "Sneeches Acai",
     "BREWERY": "Accomplice Brewery & Ciderworks",
-    "RATING": null,
-    "URL": "https://untappd.com/b/accomplice-brewery-ya-mon-coconut-cider/2059207"
+    "RATING": "3.375",
+    "URL": "https://untappd.com/b/accomplice-brewery-and-ciderworks-sneeches-acai/2912292"
   },
   {
-    "NAME": "Galaxy",
-    "BREWERY": "Anchorage Brewing Company",
-    "RATING": "3.715",
-    "URL": "https://untappd.com/b/anchorage-brewing-company-galaxy/118443"
+    "NAME": "Volcano Sauce",
+    "BREWERY": "Aslin Beer Company",
+    "RATING": "4.244",
+    "URL": "https://untappd.com/b/aslin-beer-company-volcano-sauce/2998352"
   },
   {
-    "NAME": "Anadromous",
-    "BREWERY": "Anchorage Brewing Company",
-    "RATING": "3.878",
-    "URL": "https://untappd.com/b/anchorage-brewing-company-anadromous/295686"
+    "NAME": "Pinkies Up",
+    "BREWERY": "Aslin Beer Company",
+    "RATING": "4.049",
+    "URL": "https://untappd.com/b/aslin-beer-company-pinkies-up/2460710"
   },
   {
-    "NAME": "Ruck Sack: Raspberry Trail Mix",
-    "BREWERY": "Bangin' Banjo Brewing",
-    "RATING": "4.222",
-    "URL": "https://untappd.com/b/bangin-banjo-brewing-ruck-sack-raspberry-trail-mix/2303339"
-  },
-  {
-    "NAME": "Passionfruit Dragonfruit Gose",
-    "BREWERY": "Bangin' Banjo Brewing",
-    "RATING": "4.167",
-    "URL": "https://untappd.com/b/bangin-banjo-brewing-passionfruit-dragonfruit-gose/2391803"
-  },
-  {
-    "NAME": "Sea Monster (Bourbon Barrel Aged)",
-    "BREWERY": "Ballast Point Brewing Company",
-    "RATING": "4.142",
-    "URL": "https://untappd.com/b/ballast-point-brewing-company-sea-monster-bourbon-barrel-aged/6596"
-  },
-  {
-    "NAME": "Coconut Victory at Sea",
-    "BREWERY": "Ballast Point Brewing Company",
-    "RATING": "3.91",
-    "URL": "https://untappd.com/b/ballast-point-brewing-company-coconut-victory-at-sea/818066"
-  },
-  {
-    "NAME": "Morta Cabernet Sauvignon Aged Tripel",
-    "BREWERY": "Barrel of Monks",
-    "RATING": "4.26",
-    "URL": "https://untappd.com/b/barrel-of-monks-brewing-morta/2278099"
-  },
-  {
-    "NAME": "Be Mine",
-    "BREWERY": "Barrel Of Monks Brewing",
-    "RATING": "3.99",
-    "URL": "https://untappd.com/b/barrel-of-monks-brewing-be-mine/1947590"
-  },
-  {
-    "NAME": "Imperial Biere Joie",
-    "BREWERY": "Bayou Teche Brewing",
-    "RATING": "3.793",
-    "URL": "https://untappd.com/b/bayou-teche-brewing-imperial-biere-joie/1966255"
-  },
-  {
-    "NAME": "Bayou Teche DDH Cocodrie",
-    "BREWERY": "Bayou Teche Brewing",
-    "RATING": null,
-    "URL": "https://untappd.com/b/bayou-teche-brewing-ddh-cocodrie/2467504"
-  },
-  {
-    "NAME": "Scurvy Shyster Bastard",
+    "NAME": "Punk Lemonade",
     "BREWERY": "B. Nektar Meadery",
-    "RATING": "3.892",
-    "URL": "https://untappd.com/b/b-nektar-meadery-scurvy-shyster-bastard/985144"
+    "RATING": "4.178",
+    "URL": "https://untappd.com/b/b-nektar-meadery-punk-lemonade/2867088"
   },
   {
-    "NAME": "Caramel Bacon Cider",
-    "BREWERY": "B Nektar",
+    "NAME": "Core Crusher",
+    "BREWERY": "B. Nektar Meadery",
+    "RATING": "3.781",
+    "URL": "https://untappd.com/b/b-nektar-meadery-core-crusher/2966602"
+  },
+  {
+    "NAME": "Autumn Serenade",
+    "BREWERY": "Bangin' Banjo Brewing",
+    "RATING": "4.25",
+    "URL": "https://untappd.com/b/bangin-banjo-brewing-autumn-serenade/2872802"
+  },
+  {
+    "NAME": "Blood Orange Grapefruit Gose",
+    "BREWERY": "Bangin' Banjo Brewing",
+    "RATING": "3.99",
+    "URL": "https://untappd.com/b/bangin-banjo-brewing-blood-orange-grapefruit-gose/2202891"
+  },
+  {
+    "NAME": "Clotho",
+    "BREWERY": "Barrel of Monks Brewing",
+    "RATING": "3.93",
+    "URL": "https://untappd.com/b/barrel-of-monks-brewing-clotho/2860824"
+  },
+  {
+    "NAME": "Barrel of Monks Brewery Chocolate Strawberry Singel",
+    "BREWERY": "Barrel of Monks Brewing",
     "RATING": null,
     "URL": null
   },
   {
-    "NAME": "Hunahpus Imperial Stout",
-    "BREWERY": "Cigar City Brewing",
-    "RATING": "4.501",
-    "URL": "https://untappd.com/b/cigar-city-brewing-hunahpus-imperial-stout/9060"
+    "NAME": "The Waking Dead",
+    "BREWERY": "Bayou Teche Brewing",
+    "RATING": "3.822",
+    "URL": "https://untappd.com/b/bayou-teche-brewing-the-waking-dead/2250012"
   },
   {
-    "NAME": "Lactobacillus Guava Grove",
-    "BREWERY": "Cigar City Brewing",
-    "RATING": "4.034",
-    "URL": "https://untappd.com/b/cigar-city-brewing-lactobacillus-guava-grove/504148"
+    "NAME": "Techeticles III",
+    "BREWERY": "Bayou Teche Brewing",
+    "RATING": "3.988",
+    "URL": "https://untappd.com/b/bayou-teche-brewing-techeticles-iii/2816461"
   },
   {
-    "NAME": "Mango",
+    "NAME": "Passion Fruit",
     "BREWERY": "Broski Ciderworks",
-    "RATING": "4.054",
-    "URL": "https://untappd.com/b/broski-ciderworks-mango/1929509"
+    "RATING": "3.808",
+    "URL": "https://untappd.com/b/broski-ciderworks-passion-fruit/1935150"
   },
   {
-    "NAME": "Ginger",
+    "NAME": "Apple Pie",
     "BREWERY": "Broski Ciderworks",
-    "RATING": "3.888",
-    "URL": "https://untappd.com/b/broski-ciderworks-ginger/1927664"
+    "RATING": "4.018",
+    "URL": "https://untappd.com/b/broski-ciderworks-apple-pie/2896597"
   },
   {
-    "NAME": "Winter Camo",
-    "BREWERY": "Civil Society Brewing",
-    "RATING": "4.147",
-    "URL": "https://untappd.com/b/civil-society-brewing-winter-camo/2440895"
-  },
-  {
-    "NAME": "Space Ponies",
-    "BREWERY": "Civil Society Brewing",
-    "RATING": "4.234",
-    "URL": "https://untappd.com/b/civil-society-brewing-space-ponies/2114970"
-  },
-  {
-    "NAME": "BA Cubano Coxness Monster Imperial Stout",
-    "BREWERY": "Copperpoint Brewing Co.",
-    "RATING": null,
-    "URL": "https://untappd.com/b/copperpoint-brewing-co-ba-cubano-coxness-monster/2466247"
-  },
-  {
-    "NAME": "B. Rabbit Espresso Cream Stout",
-    "BREWERY": "Copperpoint Brewing Co.",
-    "RATING": "3.964",
-    "URL": "https://untappd.com/b/copperpoint-brewing-co-b-rabbit-espresso-cream-stout/1576325"
-  },
-  {
-    "NAME": "Lichtenhainer Cherry Wood Smoked Sour",
-    "BREWERY": "Crooked Can",
+    "NAME": "Barrel-Aged Snack Attack",
+    "BREWERY": "Cigar City Brewing",
     "RATING": null,
     "URL": null
   },
   {
-    "NAME": "La Femme Saubage Barrel Aged Quad",
-    "BREWERY": "Crooked Can",
-    "RATING": "4.2",
-    "URL": "https://untappd.com/b/crooked-can-la-femme-sauvage/2431058"
+    "NAME": "Margarita Gose",
+    "BREWERY": "Cigar City Brewing",
+    "RATING": "3.826",
+    "URL": "https://untappd.com/b/cigar-city-brewing-margarita-gose/1982592"
   },
   {
-    "NAME": "CinnaMilk Cream Ale",
+    "NAME": "Coco For Coxness",
+    "BREWERY": "Copperpoint Brewing Co.",
+    "RATING": "4.131",
+    "URL": "https://untappd.com/b/copperpoint-brewing-co-coco-for-coxness/1813689"
+  },
+  {
+    "NAME": "Key Lime WTF",
+    "BREWERY": "Copperpoint Brewing Co.",
+    "RATING": null,
+    "URL": null
+  },
+  {
+    "NAME": "Seasonal Relief",
+    "BREWERY": "Coppertail Brewing Company",
+    "RATING": "3.819",
+    "URL": "https://untappd.com/b/coppertail-brewing-company-seasonal-relief/918685"
+  },
+  {
+    "NAME": "Guava Pastelitos",
+    "BREWERY": "Coppertail Brewing Company",
+    "RATING": "3.762",
+    "URL": "https://untappd.com/b/coppertail-brewing-company-guava-pastelitos/1812374"
+  },
+  {
+    "NAME": "Merrang!",
+    "BREWERY": "Crooked Run Brewing",
+    "RATING": "3.868",
+    "URL": "https://untappd.com/b/crooked-run-brewing-merrang/2924456"
+  },
+  {
+    "NAME": "Coming To America",
+    "BREWERY": "Crooked Run Brewing",
+    "RATING": "3.771",
+    "URL": "https://untappd.com/b/crooked-run-brewing-coming-to-america/2965764"
+  },
+  {
+    "NAME": "Neon Daze",
     "BREWERY": "Devour Brewing Co.",
-    "RATING": "4.076",
-    "URL": "https://untappd.com/b/devour-brewing-co-cinnamilk-cream-ale/1715959"
+    "RATING": null,
+    "URL": "https://untappd.com/b/devour-brewing-co-neon-daze/3020689"
+  },
+  {
+    "NAME": "Fruity Loops Blonde Ale",
+    "BREWERY": "Devour Brewing Co.",
+    "RATING": "3.686",
+    "URL": "https://untappd.com/b/devour-brewing-co-fruity-loops-blonde-ale/1177095"
+  },
+  {
+    "NAME": "Land, Sea, And Air",
+    "BREWERY": "Due South Brewing Co.",
+    "RATING": "3.733",
+    "URL": "https://untappd.com/b/due-south-brewing-co-land-sea-and-air/2931122"
   },
   {
     "NAME": "Saigon Blonde",
     "BREWERY": "Due South Brewing Co.",
-    "RATING": "3.508",
+    "RATING": "3.458",
     "URL": "https://untappd.com/b/due-south-brewing-co-saigon-blonde/503105"
   },
   {
-    "NAME": "Ginger Snap Imperial Brown",
-    "BREWERY": "Due South Brewing Co.",
-    "RATING": "3.645",
-    "URL": "https://untappd.com/b/due-south-brewing-co-ginger-snap-imperial-brown/535625"
+    "NAME": "Ritual Madness",
+    "BREWERY": "Dunedin Brewery",
+    "RATING": "4.2",
+    "URL": "https://untappd.com/b/dunedin-brewery-ritual-madness/1983516"
   },
   {
-    "NAME": "Keine Krumel(Barrel Aged)",
-    "BREWERY": "Forbidden Root Brewing Company",
-    "RATING": "4.233",
-    "URL": "https://untappd.com/b/forbidden-root-brewing-company-keine-krumelbarrel-aged/2438992"
+    "NAME": "Dram Alter",
+    "BREWERY": "Dunedin Brewery",
+    "RATING": "3.741",
+    "URL": "https://untappd.com/b/dunedin-brewery-dram-alter/551069"
   },
   {
-    "NAME": "Snoochie Boochies",
-    "BREWERY": "Forbidden Root Brewing Company",
-    "RATING": "4.232",
-    "URL": "https://untappd.com/b/forbidden-root-brewing-company-snoochie-boochies/1885497"
-  },
-  {
-    "NAME": "Kentucky Breakfast Stout (KBS)",
-    "BREWERY": "Founders Brewing Co.",
-    "RATING": "4.494",
-    "URL": "https://untappd.com/b/founders-brewing-co-kentucky-breakfast-stout-kbs/9681"
-  },
-  {
-    "NAME": "Oaty McOatface",
-    "BREWERY": "Green Bench Brewing Co",
-    "RATING": "3.666",
-    "URL": "https://untappd.com/b/green-bench-brewing-co-oaty-mcoatface/1521801"
-  },
-  {
-    "NAME": "De Soto Low Micro IPA",
-    "BREWERY": "Green Bench Brewing Co",
-    "RATING": "3.296",
-    "URL": "https://untappd.com/b/green-bench-brewing-co-de-soto-low-micro-ipa/822448"
-  },
-  {
-    "NAME": "The Northerner",
-    "BREWERY": "Green Bench Mead & Cider",
-    "RATING": "3.812",
-    "URL": "https://untappd.com/b/green-bench-mead-and-cider-the-northerner/964487"
-  },
-  {
-    "NAME": "Rooftop Cider",
-    "BREWERY": "Green Bench Mead & Cider",
-    "RATING": "3.658",
-    "URL": "https://untappd.com/b/green-bench-mead-and-cider-rooftop-cider/964475"
-  },
-  {
-    "NAME": "Christmas Morning",
-    "BREWERY": "Hardywood Park Craft Brewery",
-    "RATING": "4.273",
-    "URL": "https://untappd.com/b/hardywood-park-craft-brewery-christmas-morning/920329"
-  },
-  {
-    "NAME": "VIPA",
-    "BREWERY": "Hardywood Park Craft Brewery",
-    "RATING": "3.642",
-    "URL": "https://untappd.com/b/hardywood-park-craft-brewery-vipa/1680734"
-  },
-  {
-    "NAME": "Bros Before Mos",
-    "BREWERY": "Riptide Brewing Company",
+    "NAME": "Bourbon Barrel-Aged Imperial Stout",
+    "BREWERY": "Florida Avenue Brewing Co.",
     "RATING": null,
     "URL": null
   },
   {
-    "NAME": "Roggen the Casbah",
-    "BREWERY": "Riptide Brewing Company",
-    "RATING": "3.932",
-    "URL": "https://untappd.com/b/riptide-brewing-company-roggen-the-casbah/2438296"
+    "NAME": "Neapolitan Berliner Weisse",
+    "BREWERY": "Florida Avenue Brewing Co.",
+    "RATING": "4.05",
+    "URL": "https://untappd.com/b/florida-avenue-brewing-co-neapolitan-berliner-weisse/3000609"
   },
   {
-    "NAME": "Forgotten Tales Of The Last Gypsy Vol. 1",
-    "BREWERY": "Jolly Pumpkin Artisan Ales",
-    "RATING": "3.972",
-    "URL": "https://untappd.com/b/jolly-pumpkin-artisan-ales-forgotten-tales-of-the-last-gypsy-vol-1/778988"
+    "NAME": "Bean Me Up, Scotchy",
+    "BREWERY": "Florida Keys Brewing Co",
+    "RATING": "3.775",
+    "URL": "https://untappd.com/b/florida-keys-brewing-co-bean-me-up-scotchy/2520990"
   },
   {
-    "NAME": "Rojzilla",
-    "BREWERY": "Jolly Pumpkin Artisan Ales",
-    "RATING": "4.049",
-    "URL": "https://untappd.com/b/jolly-pumpkin-artisan-ales-rojzilla/1093282"
+    "NAME": "B.I.G. Brown Coconut Brown Ale",
+    "BREWERY": "Florida Keys Brewing Co",
+    "RATING": "3.698",
+    "URL": "https://untappd.com/b/florida-keys-brewing-co-big-brown-coconut-brown-ale/2798027"
   },
   {
-    "NAME": "Peach Battle Kat",
-    "BREWERY": "J. Wakefield Brewing",
-    "RATING": "4.109",
-    "URL": "https://untappd.com/b/j-wakefield-brewing-peach-battle-kat/1260467"
+    "NAME": "Big DAM Scoop",
+    "BREWERY": "Forbidden Root Brewing Company",
+    "RATING": "4.198",
+    "URL": "https://untappd.com/b/forbidden-root-brewing-company-big-dam-scoop/2908525"
   },
   {
-    "NAME": "Even More Nuts",
-    "BREWERY": "J. Wakefield Brewing",
-    "RATING": "4.239",
-    "URL": "https://untappd.com/b/j-wakefield-brewing-even-more-nuts/2404433"
+    "NAME": "Assembly Required V5 Mango",
+    "BREWERY": "Forbidden Root Brewing Company",
+    "RATING": "3.51",
+    "URL": "https://untappd.com/b/forbidden-root-brewing-company-assembly-required-v5-mango/2996622"
   },
   {
-    "NAME": "Sunday Brunch",
+    "NAME": "Pickleback",
+    "BREWERY": "Four Quarters Brewing",
+    "RATING": "3.87",
+    "URL": "https://untappd.com/b/four-quarters-brewing-pickleback/1563970"
+  },
+  {
+    "NAME": "Waffle Star",
+    "BREWERY": "Four Quarters Brewing",
+    "RATING": "4.29",
+    "URL": "https://untappd.com/b/four-quarters-brewing-waffle-star/1937837"
+  },
+  {
+    "NAME": "Cilice",
+    "BREWERY": "Garagiste Meadery",
+    "RATING": "4.547",
+    "URL": "https://untappd.com/b/garagiste-meadery-cilice/2408234"
+  },
+  {
+    "NAME": "Purple Waffles",
+    "BREWERY": "Garagiste Meadery",
+    "RATING": "4.759",
+    "URL": "https://untappd.com/b/garagiste-meadery-purple-waffles/2963221"
+  },
+  {
+    "NAME": "Holograms",
+    "BREWERY": "Gulf Stream Brewing Company",
+    "RATING": "3.907",
+    "URL": "https://untappd.com/b/gulf-stream-brewing-company-holograms/2996682"
+  },
+  {
+    "NAME": "Paloma Spritza",
+    "BREWERY": "Gulf Stream Brewing Company",
+    "RATING": null,
+    "URL": "https://untappd.com/b/gulf-stream-brewing-company-paloma-spritza/3020421"
+  },
+  {
+    "NAME": "Mosaic Mo Problems",
+    "BREWERY": "Invasive Species Brewing",
+    "RATING": null,
+    "URL": null
+  },
+  {
+    "NAME": "Sour Scoop",
+    "BREWERY": "Invasive Species Brewing",
+    "RATING": "4.136",
+    "URL": "https://untappd.com/b/invasive-species-brewing-sour-scoop/3011272"
+  },
+  {
+    "NAME": "Lazer Shark",
+    "BREWERY": "Invasive Species Brewing",
+    "RATING": "3.908",
+    "URL": "https://untappd.com/b/invasive-species-brewing-lazer-shark/2942875"
+  },
+  {
+    "NAME": "Rosemary & Blood Orange Berliner",
+    "BREWERY": "Jdubs Brewing Company",
+    "RATING": null,
+    "URL": null
+  },
+  {
+    "NAME": "Macaroon Imperial Stout",
+    "BREWERY": "Jdubs Brewing Company",
+    "RATING": null,
+    "URL": null
+  },
+  {
+    "NAME": "Mexican Brunch",
     "BREWERY": "Kane Brewing Company",
-    "RATING": "4.483",
-    "URL": "https://untappd.com/b/kane-brewing-company-sunday-brunch/742206"
+    "RATING": "4.439",
+    "URL": "https://untappd.com/b/kane-brewing-company-mexican-brunch/1094193"
   },
   {
-    "NAME": "Object Permanence",
+    "NAME": "Secret Mezzanine",
     "BREWERY": "Kane Brewing Company",
-    "RATING": "4.39",
-    "URL": "https://untappd.com/b/kane-brewing-company-object-permanence/1764660"
+    "RATING": "3.966",
+    "URL": "https://untappd.com/b/kane-brewing-company-secret-mezzanine/2991112"
   },
   {
     "NAME": "C Porter",
     "BREWERY": "LauderAle",
-    "RATING": "3.978",
+    "RATING": "3.96",
     "URL": "https://untappd.com/b/lauderale-c-porter/841758"
   },
   {
-    "NAME": "LauderAle DDH Lunch $$$",
-    "BREWERY": "Lauderale",
-    "RATING": "3.68",
-    "URL": "https://untappd.com/b/lauderale-lunch-money/1985009"
+    "NAME": "Maple Bush Brown",
+    "BREWERY": "LauderAle",
+    "RATING": "3.42",
+    "URL": "https://untappd.com/b/lauderale-maple-bush-brown/918970"
   },
   {
-    "NAME": "Lord Hobo Glorious DDH Amarillo",
-    "BREWERY": "Lord Hobo",
-    "RATING": "3.85",
-    "URL": "https://untappd.com/b/lord-hobo-brewing-co-glorious/1061462"
+    "NAME": "Kentucky Bourbon Barrel Ale",
+    "BREWERY": "Alltech Lexington Brewing & Distilling Co.",
+    "RATING": "3.851",
+    "URL": "https://untappd.com/b/alltech-lexington-brewing-and-distilling-co-kentucky-bourbon-barrel-ale/8172"
   },
   {
-    "NAME": "Consolation Prize",
+    "NAME": "Kentucky Bourbon Barrel Ale",
+    "BREWERY": "Alltech Lexington Brewing & Distilling Co.",
+    "RATING": "3.851",
+    "URL": "https://untappd.com/b/alltech-lexington-brewing-and-distilling-co-kentucky-bourbon-barrel-ale/8172"
+  },
+  {
+    "NAME": "Oh-J",
+    "BREWERY": "Lone Pine Brewing Company",
+    "RATING": "4.15",
+    "URL": "https://untappd.com/b/lone-pine-brewing-company-oh-j/2041820"
+  },
+  {
+    "NAME": "Chaga Stout",
+    "BREWERY": "Lone Pine Brewing Company",
+    "RATING": "3.884",
+    "URL": "https://untappd.com/b/lone-pine-brewing-company-chaga-stout/1543037"
+  },
+  {
+    "NAME": "Museum",
     "BREWERY": "Lord Hobo Brewing Co.",
-    "RATING": "3.985",
-    "URL": "https://untappd.com/b/lord-hobo-brewing-co-consolation-prize/1061525"
+    "RATING": "4.102",
+    "URL": "https://untappd.com/b/lord-hobo-brewing-co-museum/2933427"
   },
   {
-    "NAME": "Framboise de Amorosa",
-    "BREWERY": "The Lost Abbey",
-    "RATING": "4.253",
-    "URL": "https://untappd.com/b/the-lost-abbey-framboise-de-amorosa/8109"
+    "NAME": "Boomsauce",
+    "BREWERY": "Lord Hobo Brewing Co.",
+    "RATING": "3.937",
+    "URL": "https://untappd.com/b/lord-hobo-brewing-co-boomsauce/1066203"
   },
   {
     "NAME": "JOON",
     "BREWERY": "MadTree Brewing Company",
-    "RATING": "3.885",
+    "RATING": "3.862",
     "URL": "https://untappd.com/b/madtree-brewing-company-joon/1145807"
   },
   {
-    "NAME": "Bourbon Barrel Aged Axis Mundi with Coffee and Vanilla",
+    "NAME": "Bourbon Barrel Aged Are You Ready For Some Darkness",
     "BREWERY": "MadTree Brewing Company",
-    "RATING": "4.369",
-    "URL": "https://untappd.com/b/madtree-brewing-company-bourbon-barrel-aged-axis-mundi-with-coffee-and-vanilla/1035905"
+    "RATING": "4.006",
+    "URL": "https://untappd.com/b/madtree-brewing-company-bourbon-barrel-aged-are-you-ready-for-some-darkness/1324332"
   },
   {
-    "NAME": "Regresa A Mi",
-    "BREWERY": "M.I.A. Beer Co.",
-    "RATING": "3.986",
-    "URL": "https://untappd.com/b/mia-beer-co-regresa-a-mi/1060026"
-  },
-  {
-    "NAME": "MIA Chinook Me All Night Long IPA",
-    "BREWERY": "M.I.A. Beer Co.",
-    "RATING": "3.73",
-    "URL": "https://untappd.com/b/m-i-a-beer-co-chinook-me-all-night-long/2355969"
-  },
-  {
-    "NAME": "Imperial Smells Like Bean Spirit",
-    "BREWERY": "Mikerphone Brewing",
-    "RATING": "4.408",
-    "URL": "https://untappd.com/b/mikerphone-brewing-imperial-smells-like-bean-spirit/1990669"
-  },
-  {
-    "NAME": "Breakfast At Tiffany's",
-    "BREWERY": "Mikerphone Brewing",
-    "RATING": "4.109",
-    "URL": "https://untappd.com/b/mikerphone-brewing-breakfast-at-tiffanys/2333474"
-  },
-  {
-    "NAME": "Non-Prophet Kombucha Ginger Beer",
-    "BREWERY": "Non-Prophet Brewing Co.",
+    "NAME": "8 Way Santa",
+    "BREWERY": "Mathews Brewing Company",
     "RATING": null,
-    "URL": "https://untappd.com/b/non-prophet-brewing-co-gingerbeer/2113514"
+    "URL": "https://untappd.com/b/mathews-brewing-company-8-way-santa/2991383"
   },
   {
-    "NAME": "Non-Prophet Dry Hopped Kombucha",
+    "NAME": "Better Than Yours",
+    "BREWERY": "Mathews Brewing Company",
+    "RATING": null,
+    "URL": "https://untappd.com/b/mathews-brewing-company-better-than-yours/2819865"
+  },
+  {
+    "NAME": "Tremenda Tipa",
+    "BREWERY": "M.I.A. Beer Co.",
+    "RATING": "3.721",
+    "URL": "https://untappd.com/b/mia-beer-co-tremenda-tipa/2892034"
+  },
+  {
+    "NAME": "Encanto De Amor",
+    "BREWERY": "M.I.A. Beer Co.",
+    "RATING": "4.198",
+    "URL": "https://untappd.com/b/mia-beer-co-encanto-de-amor/1782628"
+  },
+  {
+    "NAME": "Go Fluff Your Nutter",
+    "BREWERY": "NOBO Brewing Company",
+    "RATING": "4.031",
+    "URL": "https://untappd.com/b/nobo-brewing-company-go-fluff-your-nutter/2792527"
+  },
+  {
+    "NAME": "Red White And Boom",
+    "BREWERY": "NOBO Brewing Company",
+    "RATING": "3.938",
+    "URL": "https://untappd.com/b/nobo-brewing-company-red-white-and-boom/410064"
+  },
+  {
+    "NAME": "Kombucha (Strawberry Basil)",
     "BREWERY": "Non-Prophet Brewing Co.",
-    "RATING": "3.83",
-    "URL": "https://untappd.com/b/non-prophet-brewing-kombucha-dry-hopped-with-citra/1144522"
+    "RATING": "4.043",
+    "URL": "https://untappd.com/b/nonprophet-brewing-co-kombucha-strawberry-basil/1143474"
   },
   {
-    "NAME": "Orchid Island DDH Star Ruby",
-    "BREWERY": "Orchid Island",
-    "RATING": "4.02",
+    "NAME": "Pineapple Turmeric Kombucha",
+    "BREWERY": "Non-Prophet Brewing Co",
+    "RATING": null,
+    "URL": null
+  },
+  {
+    "NAME": "Stabbing Elbows",
+    "BREWERY": "Odd Breed Wild Ales",
+    "RATING": null,
+    "URL": null
+  },
+  {
+    "NAME": "Artistic Bugs",
+    "BREWERY": "Odd Breed Wild Ales",
+    "RATING": "4.267",
+    "URL": "https://untappd.com/b/odd-breed-wild-ales-artistic-bugs/2858099"
+  },
+  {
+    "NAME": "Hop Gradient",
+    "BREWERY": "Ology Brewing Co",
+    "RATING": "4",
+    "URL": "https://untappd.com/b/ology-brewing-co-hop-gradient/2468867"
+  },
+  {
+    "NAME": "Sprinkle Factor",
+    "BREWERY": "Ology Brewing Co",
+    "RATING": "3.99",
+    "URL": "https://untappd.com/b/ology-brewing-co-sprinkle-factor/2745095"
+  },
+  {
+    "NAME": "Star Ruby",
+    "BREWERY": "Orchid Island Brewery",
+    "RATING": "4.01",
     "URL": "https://untappd.com/b/orchid-island-brewery-star-ruby-ipa/789826"
   },
   {
-    "NAME": "Citron (2017)",
+    "NAME": "Mimosa Brut IPA",
     "BREWERY": "Orchid Island Brewery",
-    "RATING": "3.694",
-    "URL": "https://untappd.com/b/orchid-island-brewery-citron-2017/2249976"
+    "RATING": "3.59",
+    "URL": "https://untappd.com/b/orchid-island-brewery-mimosa-brut-ipa/2950963"
   },
   {
-    "NAME": "Barn Light Saison",
+    "NAME": "Surreptitious",
     "BREWERY": "Playalinda Brewing Company",
-    "RATING": "3.661",
-    "URL": "https://untappd.com/b/playalinda-brewing-company-barn-light-saison/2295390"
+    "RATING": "3.77",
+    "URL": "https://untappd.com/b/playalinda-brewing-company-surreptitious/1310156"
   },
   {
-    "NAME": "Cranberry Claus Ale",
-    "BREWERY": "Playalinda",
-    "RATING": "3.67",
-    "URL": "https://untappd.com/b/playalinda-brewing-company-cranberry-claus/2412845"
+    "NAME": "Key Lime Slice",
+    "BREWERY": "Playalinda Brewing Company",
+    "RATING": "4.182",
+    "URL": "https://untappd.com/b/playalinda-brewing-company-key-lime-slice/1068876"
   },
   {
-    "NAME": "Kolm Null Null Kolm (Cellar Series)",
-    "BREWERY": "Põhjala",
-    "RATING": "4.05",
-    "URL": "https://untappd.com/b/pohjala-kolm-null-null-kolm-cellar-series/1940279"
+    "NAME": "Snozzberries Taste Like Snozzberries",
+    "BREWERY": "Pontoon Brewing",
+    "RATING": "4.077",
+    "URL": "https://untappd.com/b/pontoon-brewing-snozzberries-taste-like-snozzberries/2624235"
   },
   {
-    "NAME": "Kalana",
-    "BREWERY": "Põhjala",
-    "RATING": "3.738",
-    "URL": "https://untappd.com/b/pohjala-kalana/1932841"
+    "NAME": "Earth Shifter BA Imperial Stout",
+    "BREWERY": "Pontoon Brewing",
+    "RATING": "4.161",
+    "URL": "https://untappd.com/b/pontoon-brewing-earth-shifter-ba-imperial-stout/2822923"
   },
   {
-    "NAME": "Prairie Paradise",
-    "BREWERY": "Prairie Artisan Ales",
-    "RATING": "4.258",
-    "URL": "https://untappd.com/b/prairie-artisan-ales-prairie-paradise/1593221"
+    "NAME": "Gravity Glaze",
+    "BREWERY": "Pontoon Brewing",
+    "RATING": "4.317",
+    "URL": "https://untappd.com/b/pontoon-brewing-gravity-glaze/2995556"
   },
   {
-    "NAME": "Birthday Bomb!",
-    "BREWERY": "Prairie Artisan Ales",
-    "RATING": "4.336",
-    "URL": "https://untappd.com/b/prairie-artisan-ales-birthday-bomb/1538766"
+    "NAME": "Combustible Pineapple",
+    "BREWERY": "Pontoon Brewing",
+    "RATING": "4.07",
+    "URL": "https://untappd.com/b/pontoon-brewing-combustible-pineapple/2600994"
   },
   {
-    "NAME": "Peach Mango Evil Kiss",
+    "NAME": "Grandpa's Goin Nutz",
     "BREWERY": "Proof Brewing Company",
-    "RATING": "4.004",
-    "URL": "https://untappd.com/b/proof-brewing-company-peach-mango-evil-kiss/2362293"
-  },
-  {
-    "NAME": "Sometimes You Feel Like a Nut",
-    "BREWERY": "Proof",
     "RATING": null,
     "URL": null
   },
   {
-    "NAME": "Resident Chasing Citra IPA",
-    "BREWERY": "Resident Brewing Company",
-    "RATING": "3.91",
-    "URL": "https://untappd.com/b/resident-brewing-company-chasing-citra/1478392"
+    "NAME": "Strawberry Banana Evil Kiss",
+    "BREWERY": "Proof Brewing Company",
+    "RATING": null,
+    "URL": "https://untappd.com/b/proof-brewing-company-strawberry-banana-evil-kiss/3020695"
   },
   {
-    "NAME": "First Snow",
-    "BREWERY": "Resident Brewing Company",
-    "RATING": "3.758",
-    "URL": "https://untappd.com/b/resident-brewing-company-first-snow/2370526"
+    "NAME": "Mexican Hot-Chocolate",
+    "BREWERY": "Prosperity Brewers",
+    "RATING": "4.305",
+    "URL": "https://untappd.com/b/prosperity-brewers-mexican-hotchocolate/1942669"
   },
   {
-    "NAME": "Café Deth",
-    "BREWERY": "Revolution Brewing Company",
-    "RATING": "4.278",
-    "URL": "https://untappd.com/b/revolution-brewing-company-cafe-deth/998651"
+    "NAME": "M.S.R.P",
+    "BREWERY": "Prosperity Brewers",
+    "RATING": "3.742",
+    "URL": "https://untappd.com/b/prosperity-brewers-msrp/2091787"
   },
   {
-    "NAME": "Amarillo-Hero",
-    "BREWERY": "Revolution Brewing Company",
-    "RATING": "3.752",
-    "URL": "https://untappd.com/b/revolution-brewing-company-amarillohero/1932120"
-  },
-  {
-    "NAME": "Red Wrasse Berry Sour",
-    "BREWERY": "Sailfish Brewing Company",
+    "NAME": "Imperial Death Roll Stout",
+    "BREWERY": "Red Cypress Brewery",
     "RATING": null,
     "URL": null
   },
   {
-    "NAME": "She's Actin' Single, I'm Drinkin' Tripel",
-    "BREWERY": "Sailfish Brewing Company",
-    "RATING": null,
-    "URL": "https://untappd.com/b/sailfish-brewing-company-shes-actin-single-im-drinkin-tripel/2412914"
+    "NAME": "Cache Me Outside",
+    "BREWERY": "Robot Brewing Company",
+    "RATING": "4",
+    "URL": "https://untappd.com/b/robot-brewing-company-cache-me-outside/2835103"
   },
   {
-    "NAME": "Bourbon Hazelnut Coffee Mayday",
-    "BREWERY": "Saltwater Brewery",
-    "RATING": "4.24",
-    "URL": "https://untappd.com/b/saltwater-brewery-hazelnut-coffee-mayday/1455428"
+    "NAME": "Exuberance Upgrade",
+    "BREWERY": "Robot Brewing Company",
+    "RATING": null,
+    "URL": "https://untappd.com/b/robot-brewing-company-exuberance-upgrade/3020269"
+  },
+  {
+    "NAME": "Barrel-Aged Drinkin Thing",
+    "BREWERY": "Sailfish Brewing Company",
+    "RATING": null,
+    "URL": "https://untappd.com/b/sailfish-brewing-company-ba-drinkin-thing/2987701"
+  },
+  {
+    "NAME": "Cut My Life Into Peaches",
+    "BREWERY": "Sailfish Brewing Company",
+    "RATING": "3.714",
+    "URL": "https://untappd.com/b/sailfish-brewing-company-cut-my-life-into-peaches/2922359"
   },
   {
     "NAME": "Confused In the Morning",
     "BREWERY": "Saltwater Brewery",
-    "RATING": "4.085",
+    "RATING": "4.047",
     "URL": "https://untappd.com/b/saltwater-brewery-confused-in-the-morning/1061288"
   },
   {
-    "NAME": "Do Whatcha Wanna",
-    "BREWERY": "Short's Brewing Company",
-    "RATING": "4",
-    "URL": "https://untappd.com/b/shorts-brewing-company-do-whatcha-wanna/2303873"
+    "NAME": "Hazelnut Coffee Mayday",
+    "BREWERY": "Saltwater Brewery",
+    "RATING": "4.205",
+    "URL": "https://untappd.com/b/saltwater-brewery-hazelnut-coffee-mayday/1455428"
   },
   {
-    "NAME": "Shorts Arecibo",
-    "BREWERY": null,
+    "NAME": "Jealous Punks Can't Stop the Dunks... and Donuts",
+    "BREWERY": "Slim Pickens Cider & Mead",
+    "RATING": "4.18",
+    "URL": "https://untappd.com/b/slim-pickens-cider-and-mead-jealous-punks-can-t-stop-our-dunk-and-donuts/2942848"
+  },
+  {
+    "NAME": "True FuPick-ens",
+    "BREWERY": "Slim Pickens Cider & Mead",
     "RATING": null,
     "URL": null
   },
   {
-    "NAME": "Dixie Dirt Barrel Aged Imperial Stout",
-    "BREWERY": "Tampa Bay Brewing Company",
-    "RATING": "4.011",
-    "URL": "https://untappd.com/b/tampa-bay-brewing-company-dixie-dirt-barrel-aged-imperial-stout/1851261"
+    "NAME": "Stan Lee Imperial Stout",
+    "BREWERY": "Tarpon River Brewing",
+    "RATING": "4.036",
+    "URL": "https://untappd.com/b/tarpon-river-brewing-stan-lee-imperial-stout/2945055"
   },
   {
-    "NAME": "Gingy Imperial Porter",
-    "BREWERY": "Tampa Bay Brewing Company",
-    "RATING": "3.73",
-    "URL": "https://untappd.com/b/tampa-bay-brewing-company-gingy-imperial-porter/1379161"
+    "NAME": "Prickly Pear Zinger",
+    "BREWERY": "Tarpon River Brewing",
+    "RATING": "3.71",
+    "URL": "https://untappd.com/b/tarpon-river-brewing-prickly-pear-zinger/2905431"
   },
   {
-    "NAME": "Dragon Fandango",
+    "NAME": "Tom Yum Thai Gose",
+    "BREWERY": "Tomoka Brewing Co.",
+    "RATING": "3.599",
+    "URL": "https://untappd.com/b/tomoka-brewing-co-tom-yum-thai-gose/682635"
+  },
+  {
+    "NAME": "Tart Dark Cherry",
+    "BREWERY": "Tomoka Brewing Co.",
+    "RATING": null,
+    "URL": null
+  },
+  {
+    "NAME": "King Sue",
     "BREWERY": "Toppling Goliath Brewing Co.",
-    "RATING": "4.304",
-    "URL": "https://untappd.com/b/toppling-goliath-brewing-co-dragon-fandango/2068020"
+    "RATING": "4.487",
+    "URL": "https://untappd.com/b/toppling-goliath-brewing-co-king-sue/594015"
   },
   {
     "NAME": "Pseudo Sue",
     "BREWERY": "Toppling Goliath Brewing Co.",
-    "RATING": "4.233",
+    "RATING": "4.197",
     "URL": "https://untappd.com/b/toppling-goliath-brewing-co-pseudo-sue/65644"
   },
   {
-    "NAME": "Oaked White Walking Tree IPA",
-    "BREWERY": "Walking Tree",
-    "RATING": "3.99",
-    "URL": "https://untappd.com/b/walking-tree-brewery-oaked-white-walking-tree/2084201"
+    "NAME": "Dragon Fandango",
+    "BREWERY": "Toppling Goliath Brewing Co.",
+    "RATING": "4.311",
+    "URL": "https://untappd.com/b/toppling-goliath-brewing-co-dragon-fandango/2068020"
   },
   {
-    "NAME": "Red Wine Barrel Aged Candyman Belgian Tripel",
-    "BREWERY": "Walking Tree",
-    "RATING": "4.08",
-    "URL": "https://untappd.com/b/walking-tree-brewery-candyman-red-wine-barrel-aged-2017/2420868"
+    "NAME": "Barnacled Manatee",
+    "BREWERY": "Walking Tree Brewery",
+    "RATING": "3.898",
+    "URL": "https://untappd.com/b/walking-tree-brewery-barnacled-manatee/360837"
   },
   {
-    "NAME": "Freedom Ale",
-    "BREWERY": "Wicked Barley Brewing Co Jax",
-    "RATING": "3.88",
-    "URL": "https://untappd.com/b/wicked-barley-brewing-company-freedom-ale/2194044"
+    "NAME": "Sassy Flamingo - Tart Cherries",
+    "BREWERY": "Walking Tree Brewery",
+    "RATING": "3.829",
+    "URL": "https://untappd.com/b/walking-tree-brewery-sassy-flamingo-tart-cherries/2195306"
   },
   {
-    "NAME": "The Jeffery Double Stout",
-    "BREWERY": "Wicked Barley Brewing Co",
-    "RATING": "3.92",
-    "URL": "https://untappd.com/b/wicked-barley-brewing-company-the-jeffery/1934450"
-  },
-  {
-    "NAME": "Oaxacan (Canvas Series)",
+    "NAME": "Dark Age",
     "BREWERY": "Wicked Weed Brewing",
-    "RATING": "4.148",
-    "URL": "https://untappd.com/b/wicked-weed-brewing-oaxacan-canvas-series/1398008"
+    "RATING": "4.231",
+    "URL": "https://untappd.com/b/wicked-weed-brewing-dark-age/286139"
   },
   {
-    "NAME": "Bourbon Barrel Aged Milk And Cookies",
+    "NAME": "Metatropics",
     "BREWERY": "Wicked Weed Brewing",
-    "RATING": "4.133",
-    "URL": "https://untappd.com/b/wicked-weed-brewing-bourbon-barrel-aged-milk-and-cookies/2428845"
+    "RATING": "4.028",
+    "URL": "https://untappd.com/b/wicked-weed-brewing-metatropics/1702337"
   },
   {
-    "NAME": "Guava the Hutt",
+    "NAME": "Mango Passionfruit",
     "BREWERY": "Wynwood Brewing Company",
-    "RATING": "3.706",
-    "URL": "https://untappd.com/b/wynwood-brewing-company-guava-the-hutt/1590464"
+    "RATING": "3.435",
+    "URL": "https://untappd.com/b/wynwood-brewing-company-mango-passionfruit/2996961"
   },
   {
-    "NAME": "Goldman Extra Gold",
+    "NAME": "Barrel Aged Grand Pops",
     "BREWERY": "Wynwood Brewing Company",
-    "RATING": "3.399",
-    "URL": "https://untappd.com/b/wynwood-brewing-company-goldman-extra-gold/2372872"
-  },
-  {
-    "NAME": "2018 Maple Bacon Coffee Porter",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.35",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-maple-bacon-coffee-porter/21468"
+    "RATING": "3.919",
+    "URL": "https://untappd.com/b/wynwood-brewing-company-barrel-aged-grand-pops/2014415"
   },
   {
     "NAME": "Maple Bacon Coffee Porter",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.345",
+    "RATING": "4.328",
     "URL": "https://untappd.com/b/funky-buddha-brewery-maple-bacon-coffee-porter/21468"
   },
   {
-    "NAME": "Bourbon Barrel-Aged Dread Pirate Roberts",
+    "NAME": "Cafe Con Funky Indonesian Free Range Kopi Luwak",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.211",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-bourbon-barrelaged-dread-pirate-roberts/2163982"
+    "RATING": "4.28",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-cafe-con-funky-indonesian-free-range-kopi-luwak/2890802"
   },
   {
-    "NAME": "Vanilla Bourbon Barrel-Aged Nikolai Vorlauf",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.151",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-vanilla-bourbon-barrelaged-nikolai-vorlauf/2220129"
-  },
-  {
-    "NAME": "Mexican Coffee",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.345",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-mexican-coffee/1106027"
-  },
-  {
-    "NAME": "Morning Wood",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.566",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-morning-wood/127376"
-  },
-  {
-    "NAME": "Bourbon Barrel-aged Last Buffalo",
+    "NAME": "Jamaican Blue Mountain Maple Bacon Coffee Porter Variant",
     "BREWERY": "Funky Buddha Brewery",
     "RATING": null,
     "URL": null
   },
   {
-    "NAME": "Rum Barrel-Aged Pi�a Colada",
+    "NAME": "Louisville Bourbon Barrel-Aged Morning Wood Variant",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.066",
+    "RATING": "4.38",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-morning-wood-louisville/2385386"
+  },
+  {
+    "NAME": "High West Whiskey Barrel-Aged Mint Julep",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.861",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-high-west-whiskey-barrelaged-mint-julep/2635397"
+  },
+  {
+    "NAME": "Bourbon Barrel-Aged Old Fashioned",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": null,
+    "URL": null
+  },
+  {
+    "NAME": "Last Buffalo in the Park",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "4.476",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-last-buffalo-in-the-park/941431"
+  },
+  {
+    "NAME": "Saint Toddy",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "4.173",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-saint-toddy/1923646"
+  },
+  {
+    "NAME": "Rum Barrel-ged Batida",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "0",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-rum-barrelged-batida/2756602"
+  },
+  {
+    "NAME": "Rum Barrel-Aged El Jefe's Coquito",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": null,
+    "URL": null
+  },
+  {
+    "NAME": "Rum Barrel-Aged Pina Colada",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "4.021",
     "URL": "https://untappd.com/b/funky-buddha-brewery-rum-barrelaged-pina-colada/1006670"
   },
   {
-    "NAME": "Rum Barrel-Aged Sweet Potato Casserole",
+    "NAME": "Chardonnay Barrel-Aged Dreamers of Dreams",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.898",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-rum-barrelaged-sweet-potato-casserole/1907317"
+    "RATING": null,
+    "URL": null
   },
   {
     "NAME": "Chardonnay Barrel Aged Undefeated Saison",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.914",
+    "RATING": "3.895",
     "URL": "https://untappd.com/b/funky-buddha-brewery-chardonnay-barrel-aged-undefeated-saison/2338650"
   },
   {
-    "NAME": "Bourbon Barrel-Aged Uncle Vucub",
+    "NAME": "Chardonnay Barrel Tripel Lindy",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.297",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-bourbon-barrelaged-uncle-vucub/2363369"
+    "RATING": "3.961",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-chardonnay-barrel-tripel-lindy/1541486"
   },
   {
-    "NAME": "Get Pitted Barrel-aged Sour Ale ",
+    "NAME": "Mexican Coffee",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.96",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-get-pitted/2125841"
+    "RATING": "4.322",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-mexican-coffee/1106027"
   },
   {
-    "NAME": "Bourbon Barrel-aged Juicing Room",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.96",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-juicing-room/2123427"
-  },
-  {
-    "NAME": "Limited Edition Bourbon Barrel-aged Morning Wood ",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": null,
-    "URL": "https://untappd.com/b/funky-buddha-brewery-bourbon-barrel-aged-morning-wood-wild-turkey/2410236"
-  },
-  {
-    "NAME": "Limited Edition Bourbon Barrel-aged Last Buffalo ",
+    "NAME": "Indian Moonson Malabar Nikolai Vorlauf",
     "BREWERY": "Funky Buddha Brewery",
     "RATING": null,
     "URL": null
   },
   {
-    "NAME": "Last Snow",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.364",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-last-snow/32504"
-  },
-  {
-    "NAME": "No Crusts",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.008",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-no-crusts/56267"
-  },
-  {
-    "NAME": "Lemon Meringue Blonde",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.769",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-lemon-meringue-blonde/1327971"
-  },
-  {
-    "NAME": "Fire in the Hole",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.691",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-fire-in-the-hole/473443"
-  },
-  {
-    "NAME": "Sweet Potato Casserole",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.882",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-sweet-potato-casserole/237560"
-  },
-  {
-    "NAME": "French Toast Double Brown Ale",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.192",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-french-toast-double-brown-ale/558195"
-  },
-  {
-    "NAME": "Last Snow",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.364",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-last-snow/32504"
-  },
-  {
-    "NAME": "Mint Julep Bourbon Ale",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": null,
-    "URL": null
-  },
-  {
-    "NAME": "Android 3000",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.537",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-android-3000/2273382"
-  },
-  {
-    "NAME": "Undefeated Saison",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.734",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-undefeated-saison/930566"
-  },
-  {
-    "NAME": "Nib Smuggler",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.064",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-nib-smuggler/48319"
-  },
-  {
-    "NAME": "Strawberry Shortcake",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.804",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-strawberry-shortcake/1172609"
-  },
-  {
-    "NAME": "Passionfruit Keylime Mojito Crusher",
-    "BREWERY": "Funky Buddha Brewery",
-    "RATING": null,
-    "URL": null
-  },
-  {
-    "NAME": "Keylime Pie Tart",
+    "NAME": "Jamaican Blue Mountain Snowed In",
     "BREWERY": "Funky Buddha Brewery",
     "RATING": null,
     "URL": null
@@ -758,31 +818,181 @@ data = [
   {
     "NAME": "I'm So Excited, I'm So Scared",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "4.256",
+    "RATING": "4.226",
     "URL": "https://untappd.com/b/funky-buddha-brewery-im-so-excited-im-so-scared/1094964"
   },
   {
-    "NAME": "Nikolai Vorlauf Russian Imperial Stout",
+    "NAME": "Barrel Aged Imperial Chocwork Orange",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.997",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-nikolai-vorlauf-russian-imperial-stout/45282"
+    "RATING": "4.285",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-barrel-aged-imperial-chocwork-orange/1399183"
   },
   {
-    "NAME": "Strawberry Hop Gun",
+    "NAME": "Wide Awake It's Morning",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.597",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-strawberry-hop-gun/2380172"
+    "RATING": "4.428",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-wide-awake-its-morning/34608"
   },
   {
-    "NAME": "Devils Haircut Red Ale",
+    "NAME": "Nib Smuggler",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.61",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-devil-s-haircut/2417661"
+    "RATING": "4.054",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-nib-smuggler/48319"
   },
   {
-    "NAME": "Hansel NEIPA",
+    "NAME": "Last Snow",
     "BREWERY": "Funky Buddha Brewery",
-    "RATING": "3.71",
-    "URL": "https://untappd.com/b/funky-buddha-brewery-hansel/2427888"
+    "RATING": "4.325",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-last-snow/32504"
+  },
+  {
+    "NAME": "French Toast",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "4.157",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-french-toast/558195"
+  },
+  {
+    "NAME": "Save Some Room For Later",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "4.018",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-save-some-room-for-later/2123372"
+  },
+  {
+    "NAME": "Sweet Potato Casserole",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.877",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-sweet-potato-casserole/237560"
+  },
+  {
+    "NAME": "No Crusts",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.953",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-no-crusts/56267"
+  },
+  {
+    "NAME": "Fire in the Hole",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.688",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-fire-in-the-hole/473443"
+  },
+  {
+    "NAME": "Cosmic Journey",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.852",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-cosmic-journey/2999633"
+  },
+  {
+    "NAME": "Miami Miracle Double Lateral Double IPA",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.542",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-miami-miracle-double-lateral-double-ipa/3016177"
+  },
+  {
+    "NAME": "Melon Ballin'",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.944",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-melon-ballin/2976971"
+  },
+  {
+    "NAME": "Daywalker Ginger IPA",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.563",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-daywalker-ginger-ipa/123633"
+  },
+  {
+    "NAME": "Raspberry Floridian",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.713",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-raspberry-floridian/392214"
+  },
+  {
+    "NAME": "Sticky Treats",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.687",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-sticky-treats/1620638"
+  },
+  {
+    "NAME": "Sticky Nuts",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": null,
+    "URL": null
+  },
+  {
+    "NAME": "Dragon Fruit Berliner",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": null,
+    "URL": null
+  },
+  {
+    "NAME": "Key Lime Pie Tart Ale",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.725",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-key-lime-pie-tart-ale/2454003"
+  },
+  {
+    "NAME": "Sweet Sunny South",
+    "BREWERY": "Sierra Nevada Brewing Co.",
+    "RATING": "3.619",
+    "URL": "https://untappd.com/b/sierra-nevada-brewing-co-sweet-sunny-south/1415165"
+  },
+  {
+    "NAME": "Floridian Hefeweizen",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.594",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-floridian-hefeweizen/14417"
+  },
+  {
+    "NAME": "Hop Gun",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.749",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-hop-gun/11921"
+  },
+  {
+    "NAME": "Crusher Session IPA",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.588",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-crusher-session-ipa/235327"
+  },
+  {
+    "NAME": "Eternal Summer",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.485",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-eternal-summer/818502"
+  },
+  {
+    "NAME": "Pineapple Beach",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.497",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-pineapple-beach/1886879"
+  },
+  {
+    "NAME": "Tripel Lindy",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.731",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-tripel-lindy/479545"
+  },
+  {
+    "NAME": "Vibin",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.525",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-vibin/2617497"
+  },
+  {
+    "NAME": "42 Hazy Daze",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.72",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-42-hazy-daze/2777367"
+  },
+  {
+    "NAME": "El Camino Haze",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.942",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-el-camino-haze/2525779"
+  },
+  {
+    "NAME": "Gloves Off IPA",
+    "BREWERY": "Funky Buddha Brewery",
+    "RATING": "3.682",
+    "URL": "https://untappd.com/b/funky-buddha-brewery-gloves-off-ipa/2887555"
   }
 ]

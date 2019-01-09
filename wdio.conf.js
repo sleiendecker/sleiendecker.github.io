@@ -18,15 +18,10 @@ exports.config = {
   // directory is where your package.json resides, so `wdio` will be called from there.
   //
   specs: [
-      './scrape/*.js'
+      './scrape/list.spec.js'
   ],
-  maxInstances: 10,
-  //
   capabilities: [{
-    maxInstances: 5,
-      //
-    //   browserName: 'phantomjs',
-    //   'phantomjs.binary.path': phantomPath,
+    maxInstances: 1,
     browserName: 'chrome',
     chromeOptions: {
     args: [
@@ -59,7 +54,7 @@ exports.config = {
   beforeSuite: (suite) => {
   },
   before: () => {
-    browser.windowHandleMaximize();
+    // browser.windowHandleMaximize();
     browser.timeouts('implicit', 100);
   }
 }
