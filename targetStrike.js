@@ -1,8 +1,16 @@
-const sunshineBatch = {
-  weight: 15, // weight of grist
-  gallons: 5,  // volume of galons used in mash
-  grainTemp: 65,
-  mashTemp: 153
+const ipaGrist = {
+  
+  // weight of grist
+  weight: 17.25, 
+  
+  // volume of galons used in mash
+  gallons: 7.5,  
+  
+  // temperature of the grains
+  grainTemp: 67,
+  
+  // target mash temperature
+  mashTemp: 152
 }
 
 function getStrikeTemp(batch) {
@@ -12,5 +20,5 @@ function getStrikeTemp(batch) {
   return Math.ceil(solution * 100) / 100;
 }
 
-let sol = getStrikeTemp(sunshineBatch);
-console.log('Found solution:', sol);
+
+console.log(getStrikeTemp(ipaGrist));
