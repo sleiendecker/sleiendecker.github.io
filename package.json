@@ -24,7 +24,7 @@
     "gulp-mocha": "^6.0.0",
     "gulp-webdriver": "^2.0.3",
     "json2xls": "^0.1.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "mocha": "^5.2.0",
     "node-xlsx": "^0.12.1",
     "npm": "^6.5.0",
