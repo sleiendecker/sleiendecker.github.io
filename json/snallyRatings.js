@@ -2363,4 +2363,5 @@ data = [
     "RATING": "3.831",
     "URL": "https://untappd.com/b/yeast-of-eden-saison-recolte/2397707"
   }
+
 ]
