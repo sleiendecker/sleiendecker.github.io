@@ -1,4 +1,14 @@
 <!DOCTYPE html>
+
+<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+<script src="./javascript/calculate.js"></script>
+
+
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -9,44 +19,75 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title></title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-  <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.js"></script>
-  <!-- js -->
-  <script type="text/javascript" src="web/js/script.js"></script>
-
-  <!-- bootstrap -->
-  <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
-    crossorigin="anonymous">
-
-  <!-- ratings -->
-  <script src="./json/snallyRatings.js" />
-
-  <script type="text/javascript"> 
-    $(document).ready(function () {
-      console.log('Parsing data:', data);
-    });
-
-  </script>
-  <style>
-    div {
-      padding-top: 1px
-    }
-  </style>
+  <link rel="stylesheet" href="">
 </head>
+
 <body>
-  <div id="myDiv">
-    <table id="table" class="display table table-responsive table-striped" data-pagination="true">
-      <thead>
-        <tr><th>Name</th><th>Brewery</th><th>Rating</th></tr>
-      </thead>
-      <tbody></tbody>
-    </table>
+  <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+  <div class="container">
+
+    <div style=" margin-top:50px" class="mainbox col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <div class="panel-title">Strike Temp Calculator</div>
+        </div>
+        <div class="panel-body">
+          <form>
+            <form class="form-horizontal">
+              
+                <label class="control-label col-md-4"> Weight (lbs)</label>
+                <div class="controls col-md-8 ">
+                  <input class="input-md  textinput form-control is-invalid" id="weight" maxlength="30"
+                    name="username" placeholder="Weight of grist" style="margin-bottom: 10px" type="number" required/>
+                </div>
+              
+                <label class="control-label col-md-4"> Gallons</label>
+                <div class="controls col-md-8 ">
+                  <input class="input-md emailinput form-control" id="gallons" name="email"
+                    placeholder="Volume of gallons in the mash" style="margin-bottom: 10px" type="number" />
+                </div>
+              
+                <label class="control-label col-md-4">Grain Temp (F)</label>
+                <div class="controls col-md-8 ">
+                  <input class="input-md textinput form-control" id="grain_temp" name="password1"
+                    placeholder="Temperature of the grains" style="margin-bottom: 10px" type="number" />
+                </div>
+              
+                <label class="control-label col-md-4"> Mash Temp (F)</label>
+                <div class="controls col-md-8 ">
+                  <input class="input-md textinput form-control" id="mash_temp" name="password2"
+                    placeholder="Target mash temperature" style="margin-bottom: 10px" type="number" />
+                </div>
+              
+                <div class="controls col-md-4 ">
+                  <input type="button" id="calculate" name="Calculate" value="Calculate" class="btn btn-primary btn btn-info" />
+                </div>
+                <div class="controls col-md-8 ">
+                <div id="alert" class="alert fade">
+                  <button class="close" type="button" data-dismiss="alert"></button>
+                </div>
+            </form>
+
+          </form>
+        </div>
+      </div>
+    </div>
   </div>
+
+
+
+
+
+
+  </div>
+
+  <script src="" async defer></script>
 </body>
 
 </html>
