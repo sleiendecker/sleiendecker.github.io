@@ -1,16 +1,16 @@
 const ipaGrist = {
   
   // weight of grist
-  weight: 8.75, 
+  weight: 19.25, 
   
   // volume of galons used in mash
-  gallons: 7,  
+  gallons: 6.82,  
   
   // temperature of the grains
-  grainTemp: 69,
+  grainTemp: 70,
   
   // target mash temperature
-  mashTemp: 152
+  mashTemp: 156
 }
 
 function getStrikeTemp(batch) {

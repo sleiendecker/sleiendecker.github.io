@@ -4,3 +4,4 @@
 /controllers/
 /config/
 .DS_Store
+/seleniumLogs/
